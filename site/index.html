@@ -25,8 +25,9 @@ ul{margin:0;padding:0}#kb{font-size:16px;position:absolute;opacity:0;pointer-eve
 #md{background:var(--bg);border:3px solid var(--ink);border-radius:14px 10px 15px 9px/10px 15px 9px 14px;padding:16px 18px;max-width:360px;width:100%}
 #md h2{margin:0 0 6px;font-size:34px}#md p{margin:4px 0}#mbtn{margin-top:8px}
 #sh{width:100%;font:inherit;color:var(--ink);background:#fff;border:3px solid var(--ink);border-radius:10px;padding:6px;resize:none}
-#bg{position:fixed;inset:0;z-index:-1;pointer-events:none;overflow:hidden}#bg div{position:absolute;opacity:.85}#bg img{width:100%;display:block}
-@media(max-width:760px){#bg .w{display:none}}
+#bg{position:fixed;inset:0;z-index:-1;pointer-events:none;overflow:hidden}#bg div{position:absolute;opacity:.85;left:var(--lx);top:var(--ly)}#bg img{width:100%;display:block}
+#bg{--k:1}
+@media(max-width:760px){#bg{--k:2}#bg div{left:var(--px,var(--lx));top:var(--py,var(--ly))}#bg .w{display:none}}
 /* responsive: phone portrait (default) -> tablet portrait -> wide/landscape two-column */
 :root{--g:min(92vw,400px)}
 #play{display:flex;flex-direction:column;align-items:center;max-width:1100px;margin:0 auto}
@@ -49,9 +50,9 @@ ul{margin:0;padding:0}#kb{font-size:16px;position:absolute;opacity:0;pointer-eve
 <div id=ov hidden onclick="if(event.target==this)this.hidden=true"><div id=md><h2 id=mt></h2><div id=mb></div><div id=mbtn></div></div></div>
 <input id=kb autocomplete=off autocapitalize=characters>
 <script>
-// doodle decorations: [shape, left%, top%, width px, tilt deg, wide-screens-only]
-[['heart',2,2,72,-14,0],['star',90,7,64,13,0],['sparkle',88,84,60,-9,0],['sparkle',3,46,56,11,1],['star',6,82,62,-12,1],['heart',92,46,68,9,1]].forEach(([n,x,y,w,r,wd])=>{
-document.getElementById('bg').insertAdjacentHTML('beforeend',`<div class="${wd?'w':''}" style="left:${x}%;top:${y}%;width:clamp(${w*.8}px,${w/10}vw,${w*1.5}px);transform:rotate(${r}deg)"><picture><source media="(prefers-reduced-motion: reduce)" srcset="images/${n}_still.png"><img src="images/${n}.gif" alt=""></picture></div>`)});
+// doodle decorations: [shape, left%, top%, width px, tilt deg, wide-screens-only, (optional) phone left%, phone top%]
+[['heart',2,2,72,-14,0,-6,0],['star',90,7,64,13,0,79,1],['sparkle',88,84,60,-9,0,80,80],['sparkle',3,46,56,11,1],['star',6,82,62,-12,1],['heart',92,46,68,9,1]].forEach(([n,x,y,w,r,wd,px,py])=>{
+document.getElementById('bg').insertAdjacentHTML('beforeend',`<div class="${wd?'w':''}" style="--lx:${x}%;--ly:${y}%;${px!=null?`--px:${px}%;--py:${py}%;`:''}width:calc(clamp(${w*.8}px,${w/10}vw,${w*1.5}px)*var(--k));transform:rotate(${r}deg)"><picture><source media="(prefers-reduced-motion: reduce)" srcset="images/${n}_still.png"><img src="images/${n}.gif" alt=""></picture></div>`)});
 const $=id=>document.getElementById(id);let P,G={},N={},M={},sel,dir='A',bad=new Set(),t0=Date.now(),done=0;
 const D=new URLSearchParams(location.search).get('d')||new Date(Date.now()-new Date().getTimezoneOffset()*6e4).toISOString().slice(0,10);
 fetch('puzzles.json').then(r=>r.json()).then(j=>{const p=j.puzzles[D];if(!p)throw 0;init({...p,date:D})}).catch(()=>$('clue').textContent="Today's puzzle isn't ready yet. Check back soon!");
@@ -75,10 +76,14 @@ if(m){e.preventDefault();arrow(...m)}else if(e.key=='Backspace'){e.preventDefaul
 else if(/^[a-z]$/i.test(e.key)){e.preventDefault();type(e.key.toUpperCase())}});
 function check(){bad=new Set(Object.keys(G).filter(k=>G[k]!=ans(k)));draw();finish()}
 function ans(k){const e=Object.values(M[k])[0];return e.answer[e.cells.indexOf(k)]}
+const horn=new Audio('images/horn.mp3');horn.preload='auto';let unlocked=false;
+function unlock(){if(unlocked)return;unlocked=true;horn.muted=true;horn.play().then(()=>{horn.pause();horn.currentTime=0;horn.muted=false}).catch(()=>{unlocked=false;horn.muted=false})}
+['pointerdown','keydown'].forEach(e=>document.addEventListener(e,unlock));
+function playHorn(){try{horn.muted=false;horn.currentTime=0;horn.play().catch(()=>{})}catch(e){}}
 let result='';
 function modal(t,b,btns){$('mt').textContent=t;$('mb').innerHTML=b;const m=$('mbtn');m.innerHTML='';btns.forEach(([l,f])=>{const x=document.createElement('button');x.textContent=l;x.onclick=()=>{if(f&&f(x)===false)return;$('ov').hidden=true};m.appendChild(x)});$('ov').hidden=false}
 document.addEventListener('keydown',e=>{if(e.key=='Escape')$('ov').hidden=true});
-function finish(){if(done||!P)return;if(Object.keys(M).every(k=>G[k]==ans(k))){done=1;const s=Math.floor((Date.now()-t0)/1e3);result=Math.floor(s/60)+':'+String(s%60).padStart(2,'0');$('t').textContent=result;$('win').innerHTML='<button onclick=showWin()>♥ View results</button>';showWin()}}
+function finish(){if(done||!P)return;if(Object.keys(M).every(k=>G[k]==ans(k))){done=1;const s=Math.floor((Date.now()-t0)/1e3);result=Math.floor(s/60)+':'+String(s%60).padStart(2,'0');$('t').textContent=result;$('win').innerHTML='<button onclick=showWin()>♥ View results</button>';playHorn();showWin()}}
 function showWin(){const msg=`aleX mini ♥ ${$('date').textContent}\nSolved in ${result}\n${location.origin+location.pathname}`;
 modal('Congrats! ♥',`<p>You solved today's mini in</p><p style="font-size:46px;font-weight:700;margin:0 0 8px">${result}</p><textarea id=sh readonly rows=3>${msg}</textarea>`,[['Copy message',x=>{try{const t=$('sh');t.select();navigator.clipboard?navigator.clipboard.writeText(t.value):document.execCommand('copy');x.textContent='Copied!'}catch(e){}return false}],['Close']])}
 function askReveal(){modal('Reveal the answers?','<p>This fills in every square and stops your timer.</p>',[['Yes, reveal',reveal],['Keep playing']])}
