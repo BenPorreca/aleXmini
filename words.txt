@@ -12,7 +12,7 @@ EAT | Have a meal
 ERA | Period of history
 ICE | Frozen water
 ION | Charged particle
-IRE | Anger
+IMP | Mischievous  Demon
 ORE | Mine yield
 OAT | Porridge grain
 OIL | Slick stuff
