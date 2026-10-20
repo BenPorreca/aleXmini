@@ -1,0 +1,163 @@
+# aleX mini word list. One entry per line:  WORD | clue
+# Words may be 3-6 letters. Section headers are just for your own organising.
+# Add the same word on several lines to give it alternate clues (one is picked at random).
+# A bigger list = better, more varied puzzles. Aim for hundreds per length.
+
+## 3 letters
+ACE | Top card
+ART | Museum display
+ATE | Had dinner
+EAR | Hearing organ
+EAT | Have a meal
+ERA | Period of history
+ICE | Frozen water
+ION | Charged particle
+IRE | Anger
+ORE | Mine yield
+OAT | Porridge grain
+OIL | Slick stuff
+ONE | Single
+OWL | Night bird
+RAT | Rodent
+SEA | Big body of water
+SET | Tennis unit
+SKI | Slope glider
+SUN | Daytime star
+TEA | Hot drink in a pot
+TEN | Perfect score
+TIE | Necktie
+TOE | Part of a foot
+TON | 2,000 pounds
+NET | Fishing gear
+NAP | Short sleep
+LAP | Pool length
+LIE | Fib
+LET | Allow
+RED | Stop sign color
+RIP | Tear
+ROW | Line of seats
+SIT | Take a seat
+TAN | Beach souvenir
+TAR | Road material
+
+## 4 letters
+ALOE | Soothing succulent
+ARIA | Opera solo
+AREA | Square footage
+BEAR | Grizzly
+BOAT | Sailing vessel
+CARE | Look after
+CITE | Quote as a source
+DATE | Calendar entry
+DEAR | Letter opener
+DOOR | It swings on hinges
+EARN | Make money
+EAST | Where the sun rises
+EDIT | Revise
+ELSE | Otherwise
+IDEA | Brainstorm result
+IRON | Pressing tool
+LAST | Final
+LATE | Not on time
+LINE | Queue
+LION | Pride member
+LOAN | Bank lending
+NOTE | Short message
+OATS | Granola base
+ONCE | One time
+OPEN | Not closed
+OVEN | Baker's appliance
+PEAR | Fruit with a stem
+RAIN | Umbrella weather
+REAL | Genuine
+RIDE | Hop in a car
+ROSE | Valentine's flower
+SAIL | Boat's wind catcher
+SEAT | Place to sit
+SIDE | Left or right
+SNOW | Winter flakes
+SORT | Arrange
+STAR | Celebrity
+TEAR | Cry drop
+TIDE | Ocean's rise and fall
+TIRE | Wheel cover
+TONE | Voice quality
+TRIO | Group of three
+TREE | Oak, for one
+SLED | Winter ride
+LEAD | Be in front
+
+## 5 letters
+ALONE | By oneself
+ARENA | Sports venue
+AROSE | Got up
+ASIDE | To one side
+ATLAS | Book of maps
+AUDIO | Sound
+BEACH | Sandy shore
+BREAD | Toast source
+CANOE | Paddled craft
+CLEAR | See-through
+DANCE | Move to music
+EARTH | Our planet
+ELITE | Top tier
+ENTER | Come in
+HEART | Valentine shape
+HOTEL | Place to check in
+IDEAL | Perfect
+LEARN | Pick up knowledge
+LEMON | Sour citrus
+LIGHT | Not heavy
+NOISE | Racket
+NORTH | Compass point
+OCEAN | Atlantic or Pacific
+OLIVE | Martini garnish
+ONSET | Beginning
+OTTER | Playful river swimmer
+PIANO | Keyboard instrument
+PLANT | Fern, for one
+RADIO | Car music source
+RATIO | Proportion
+RESET | Start over
+RIVER | Flowing waterway
+ROAST | Cook in an oven
+SALAD | Bowl of greens
+SCARE | Frighten
+SHORE | Where land meets sea
+SLATE | Roof tile
+SMILE | Happy expression
+SNAIL | Slow shell carrier
+STARE | Gaze
+STONE | Rock
+STORE | Shop
+TABLE | Dining furniture
+TIGER | Striped cat
+TRAIN | Locomotive
+TREAT | Special goody
+STAIR | Step on a staircase
+LATER | See you ___
+ROUTE | Path taken
+ORATE | Give a speech
+RAISE | Lift up
+SOLAR | Of the sun
+
+## 6 letters
+ANSWER | Reply
+ARTIST | Painter, for one
+ORANGE | Citrus fruit
+STREAM | Small river
+SEASON | Spring or fall
+STRING | Guitar part
+SILVER | Medal for second
+SENIOR | Upperclassman
+LISTEN | Pay attention
+ISLAND | Land in water
+RETAIL | Store sales
+ORIENT | Face east
+SALTED | Like some peanuts
+TALENT | Natural gift
+ENTIRE | Whole
+NATURE | The great outdoors
+RAISIN | Dried grape
+LOTION | Skin moisturizer
+STOLEN | Taken illegally
