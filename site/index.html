@@ -9,10 +9,10 @@ body{margin:0;padding:14px 14px 40px;-webkit-tap-highlight-color:transparent;tou
 h1{margin:4px 0 0;font-size:clamp(38px,5vw,58px);display:flex;justify-content:center;align-items:center;gap:8px;transform:rotate(-1.5deg)}
 h1 img{width:1.05em;height:1.05em}
 .sub{margin:0 0 6px;opacity:.75}
-#grid{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;width:var(--g);margin:10px auto;user-select:none;-webkit-user-select:none}
-.c{aspect-ratio:1;background:#fff;border:3px solid var(--ink);border-radius:10px 14px 9px 13px/13px 9px 14px 10px;position:relative;display:flex;align-items:center;justify-content:center;font-size:calc(var(--g)*.09);font-weight:700;cursor:pointer}
+#grid{display:grid;grid-template-columns:repeat(5,1fr);gap:max(2px,calc(20px/var(--n,5)));width:var(--g);margin:10px auto;user-select:none;-webkit-user-select:none}
+.c{aspect-ratio:1;background:#fff;border:max(2px,calc(15px/var(--n,5))) solid var(--ink);border-radius:10px 14px 9px 13px/13px 9px 14px 10px;position:relative;display:flex;align-items:center;justify-content:center;font-size:calc(var(--g)*.46/var(--n,5));font-weight:700;cursor:pointer}
 .c.b{background:var(--ink);cursor:default}.c.w{background:var(--sky)}.c.s{background:var(--sun)}.c.x{background:#ffd0d0}
-.n{position:absolute;top:1px;left:5px;font-size:max(11px,calc(var(--g)*.034));font-style:normal;font-weight:400}
+.n{position:absolute;top:1px;left:5px;font-size:max(9px,calc(var(--g)*.17/var(--n,5)));font-style:normal;font-weight:400}
 #clue{width:min(92vw,520px);margin:8px auto;padding:8px 12px;background:var(--mint);border:3px solid var(--ink);border-radius:14px 10px 15px 9px/10px 15px 9px 14px;min-height:44px}
 button{font:inherit;color:inherit;background:var(--pink);border:3px solid var(--ink);border-radius:12px 9px 13px 8px/9px 13px 8px 12px;padding:2px 16px;min-height:44px;margin:4px;cursor:pointer}
 button:hover{background:var(--sun)}
@@ -39,9 +39,12 @@ ul{margin:0;padding:0}#kb{font-size:16px;position:absolute;opacity:0;pointer-eve
 .lists{flex:0 1 460px;margin:10px 0}.lists div{flex:1 1 190px}}
 #win:empty{display:none}
 .lists{width:100%}
+#grid[data-n='10'] .c,#grid[data-n='9'] .c,#grid[data-n='8'] .c,#grid[data-n='7'] .c{border-radius:7px 9px 6px 8px/8px 6px 9px 7px}
+.mega{display:inline-block;font-size:1.7em;line-height:.9;letter-spacing:.04em;color:#ff5d8f;text-shadow:3px 3px 0 var(--ink),-1px -1px 0 var(--ink);transform:rotate(2.5deg)}
+h1:has(.mega){flex-wrap:wrap;row-gap:0}
 </style></head><body>
 <div id=bg></div>
-<h1>aleX mini <img src="images/logo.png" alt=""></h1>
+<h1>aleX <span id=word>mini</span><img src="images/logo.png" alt=""></h1>
 <p class=sub><span id=date></span> · <span id=t>0:00</span></p>
 <div id=play><div id=left>
 <div id=grid></div><div id=clue>Loading today's puzzle…</div><div id=win></div>
@@ -56,7 +59,7 @@ document.getElementById('bg').insertAdjacentHTML('beforeend',`<div class="${wd?'
 const $=id=>document.getElementById(id);let P,G={},N={},M={},sel,dir='A',bad=new Set(),t0=Date.now(),done=0;
 const D=new URLSearchParams(location.search).get('d')||new Date(Date.now()-new Date().getTimezoneOffset()*6e4).toISOString().slice(0,10);
 fetch('puzzles.json').then(r=>r.json()).then(j=>{const p=j.puzzles[D];if(!p)throw 0;init({...p,date:D})}).catch(()=>$('clue').textContent="Today's puzzle isn't ready yet. Check back soon!");
-function init(p){P=p;$('clue').style.display='none';$('grid').style.gridTemplateColumns=`repeat(${p.pattern.length},1fr)`;$('date').textContent=new Date(p.date+'T12:00').toLocaleDateString(undefined,{weekday:'long',month:'short',day:'numeric'});
+function init(p){P=p;$('clue').style.display='none';$('grid').style.gridTemplateColumns=`repeat(${p.pattern.length},1fr)`;$('grid').style.setProperty('--n',p.pattern.length);$('grid').dataset.n=p.pattern.length;if(p.pattern.length>6){$('word').textContent='MEGA';$('word').className='mega';document.title='aleX MEGA'}$('date').textContent=new Date(p.date+'T12:00').toLocaleDateString(undefined,{weekday:'long',month:'short',day:'numeric'});
 p.entries.forEach(e=>{e.cells=[...Array(e.len)].map((_,i)=>(e.r+(e.dir=='D'?i:0))+','+(e.c+(e.dir=='A'?i:0)));N[e.r+','+e.c]=e.num;e.cells.forEach(k=>(M[k]=M[k]||{})[e.dir]=e)});
 ['A','D'].forEach(d=>$(d).innerHTML=p.entries.filter(e=>e.dir==d).map(e=>`<li id=l${e.id} onclick="go('${e.id}')"><b>${e.num}</b> ${e.clue.replace(/</g,'&lt;')}</li>`).join(''));
 const f=p.entries[0];sel=f.cells[0];dir=f.dir;draw();setInterval(()=>{if(!done){let s=Math.floor((Date.now()-t0)/1e3);$('t').textContent=Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}},1e3)}
@@ -84,7 +87,7 @@ let result='';
 function modal(t,b,btns){$('mt').textContent=t;$('mb').innerHTML=b;const m=$('mbtn');m.innerHTML='';btns.forEach(([l,f])=>{const x=document.createElement('button');x.textContent=l;x.onclick=()=>{if(f&&f(x)===false)return;$('ov').hidden=true};m.appendChild(x)});$('ov').hidden=false}
 document.addEventListener('keydown',e=>{if(e.key=='Escape')$('ov').hidden=true});
 function finish(){if(done||!P)return;if(Object.keys(M).every(k=>G[k]==ans(k))){done=1;const s=Math.floor((Date.now()-t0)/1e3);result=Math.floor(s/60)+':'+String(s%60).padStart(2,'0');$('t').textContent=result;$('win').innerHTML='<button onclick=showWin()>♥ View results</button>';playHorn();showWin()}}
-function showWin(){const msg=`aleX mini ♥ ${$('date').textContent}\nSolved in ${result}\n${location.origin+location.pathname}`;
+function showWin(){const msg=`aleX ${$('word').textContent} ♥ ${$('date').textContent}\nSolved in ${result}\n${location.origin+location.pathname}`;
 modal('Congrats! ♥',`<p>You solved today's mini in</p><p style="font-size:46px;font-weight:700;margin:0 0 8px">${result}</p><textarea id=sh readonly rows=3>${msg}</textarea>`,[['Copy message',x=>{try{const t=$('sh');t.select();navigator.clipboard?navigator.clipboard.writeText(t.value):document.execCommand('copy');x.textContent='Copied!'}catch(e){}return false}],['Close']])}
 function askReveal(){modal('Reveal the answers?','<p>This fills in every square and stops your timer.</p>',[['Yes, reveal',reveal],['Keep playing']])}
 function askClear(){modal('Clear the board?','<p>This erases everything you have entered.</p>',[['Yes, clear',clr],['Keep playing']])}

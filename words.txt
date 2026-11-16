@@ -4,160 +4,3432 @@
 # A bigger list = better, more varied puzzles. Aim for hundreds per length.
 
 ## 3 letters
-ACE | Top card
-ART | Museum display
-ATE | Had dinner
-EAR | Hearing organ
-EAT | Have a meal
-ERA | Period of history
-ICE | Frozen water
-ION | Charged particle
-IMP | Mischievous  Demon
-ORE | Mine yield
-OAT | Porridge grain
-OIL | Slick stuff
-ONE | Single
-OWL | Night bird
-RAT | Rodent
-SEA | Big body of water
-SET | Tennis unit
-SKI | Slope glider
-SUN | Daytime star
-TEA | Hot drink in a pot
-TEN | Perfect score
-TIE | Necktie
-TOE | Part of a foot
-TON | 2,000 pounds
-NET | Fishing gear
-NAP | Short sleep
-LAP | Pool length
-LIE | Fib
-LET | Allow
+ACT | Play division
+ADD | Do some math
+AGE | Wine quality factor
+AGO | In the past
+AID | Lend a hand
+AIM | Goal or objective
+AIR | Tire filler
+ALE | Pub pint
+ALL | Every single one
+ANT | Picnic crasher
+ANY | Whichever one
+APE | Jungle primate
+ARC | Curved path
+ARE | "You ___ here"
+ARM | Sleeve filler
+ASH | Fireplace remnant
+ASK | Pose a question
+AWE | Sense of wonder
+AXE | Lumberjack's tool
+BAD | Spoiled or naughty
+BAG | Grocery carrier
+BAN | Officially forbid
+BAR | Place for a drink
+BAT | Cave flyer
+BAY | Coastal inlet
+BED | Place to sleep
+BEE | Honey maker
+BEG | Plead earnestly
+BET | Wager
+BIB | Baby's mealtime wear
+BIG | Large in size
+BIN | Recycling container
+BIT | Small piece
+BOG | Marshy wetland
+BOW | Violinist's stick
+BOX | Cardboard container
+BOY | Young lad
+BUD | Future flower
+BUG | Garden crawler
+BUN | Burger holder
+BUS | Public transit vehicle
+BUY | Make a purchase
+CAB | City taxi
+CAN | Tin container
+CAP | Bottle top
+CAR | Highway cruiser
+CAT | Purring pet
+COB | Corn center
+COD | Fish-and-chips fish
+COG | Gear tooth
+COP | Beat officer
+COT | Folding bed
+COW | Dairy farm animal
+CRY | Shed tears
+CUB | Baby bear
+CUP | Coffee vessel
+CUT | Use scissors
+DAB | Gentle touch
+DAM | River barrier
+DAY | Twenty-four hours
+DEN | Cozy family room
+DEW | Morning grass moisture
+DIG | Use a shovel
+DIM | Low on brightness
+DIP | Party bowl filler
+DOG | Barking pet
+DOT | Polka pattern unit
+DRY | Towel off
+DUE | Expected to arrive
+DUG | Excavated
+DYE | Hair colorant
+EEL | Slippery sea creature
+EGG | Omelet base
+ELF | Santa's workshop helper
+ELK | Antlered forest animal
+ELM | Shady street tree
+END | Final part
+ERA | Historical period
+EVE | Night before a holiday
+EWE | Female sheep
+EYE | Organ of sight
+FAN | Stadium cheerer
+FAR | Not close at all
+FED | Supplied with food
+FEE | Admission charge
+FEW | Not many
+FIG | Newton cookie fruit
+FIN | Shark's stabilizer
+FIT | In good physical shape
+FIX | Repair
+FLY | Buzzing insect
+FOG | Thick low mist
+FOR | In favor of
+FOX | Sly forest animal
+FRY | Cook in hot oil
+FUN | Enjoyable time
+FUR | Winter coat material
+GAP | Narrow opening
+GAS | Fuel pump purchase
+GEL | Hair styling product
+GEM | Cut jewel
+GET | Obtain
+GIG | Musician's booking
+GIN | Tonic's partner
+GUM | Chewing treat
+GUT | Instinctive feeling
+GYM | Workout facility
+HAM | Deli sandwich meat
+HAT | Sun visor
+HAY | Barn bale
+HEN | Coop layer
+HID | Kept out of sight
+HIP | Trendy and cool
+HIT | Chart-topping song
+HOG | Farm pig
+HOP | Bunny's movement
+HOT | Fresh out of the oven
+HUB | Wheel center
+HUG | Warm embrace
+HUT | Beachside shelter
+ICE | Drink chiller
+ICY | Slippery in winter
+ILL | Under the weather
+INK | Pen fluid
+INN | Country lodging
+ION | Charged atom
+IVY | Climbing wall vine
+JAB | Quick punch
+JAM | Toast spread
+JAR | Pickle container
+JAW | Lower facial bone
+JAY | Blue backyard bird
+JET | Fast passenger plane
+JOB | Daily employment
+JOG | Morning run
+JOY | Pure happiness
+JUG | Milk container
+KEY | Lock opener
+KID | Young goat or child
+KIT | Set of tools
+LAB | Science classroom
+LAP | Once around the track
+LAW | Legal rule
+LAY | Set down gently
+LEG | Table support
+LID | Pot cover
+LIE | Untruth
+LIP | Mug rim
+LOG | Fireplace wood
+LOT | Parking area
+LOW | Close to the ground
+MAD | Furious
+MAN | Adult male
+MAP | Road trip guide
+MAT | Welcome wiper
+MAY | Spring month
+MEN | Chess pieces
+MET | Encountered
+MIX | Stir together
+MOB | Unruly crowd
+MOP | Floor cleaner
+MUD | Rainy day dirt
+MUG | Cocoa cup
+NAP | Afternoon snooze
+NET | Tennis court divider
+NEW | Fresh out of the box
+NOD | Silent "yes"
+NOW | At this very moment
+NUT | Squirrel's snack
+OAK | Acorn producer
+OAR | Rowboat paddle
+OAT | Granola grain
+ODD | Strange or unusual
+OFF | Not switched on
+OIL | Salad dressing base
+OLD | Antique
+ONE | Single unit
+ORB | Glowing sphere
+ORE | Mined mineral
+OWL | Nocturnal bird
+OWN | Possess
+PAD | Notepad
+PAL | Close buddy
+PAN | Frying vessel
+PAW | Cat's foot
+PAY | Settle the bill
+PEA | Green pod veggie
+PEN | Writing instrument
+PET | Furry companion
+PIE | Bakery dessert
+PIG | Mud-loving farm animal
+PIN | Bowling target
+PIT | Peach center
+POD | Whale group
+POT | Soup cooker
+PRY | Force open
+PUB | Neighborhood tavern
+PUG | Wrinkly-faced dog
+PUN | Play on words
+PUP | Young dog
+RAG | Dusting cloth
+RAM | Male sheep
+RAN | Sprinted
+RAT | Maze runner
+RAW | Uncooked
+RAY | Beam of sunlight
 RED | Stop sign color
-RIP | Tear
-ROW | Line of seats
+RIB | Barbecue cut
+RID | Free from
+RIM | Basketball hoop edge
+RIP | Tear apart
+ROB | Steal from
+ROD | Fishing pole
+ROT | Spoil
+ROW | Theater seat line
+RUB | Massage
+RUG | Living room floor covering
+RUN | Jog quickly
+RYE | Deli bread choice
+SAD | Feeling blue
+SAP | Maple syrup source
+SAT | Took a chair
+SAW | Carpenter's blade
+SAY | Speak aloud
+SEA | Ocean expanse
+SET | Tennis match division
+SEW | Use a needle and thread
+SHY | Timid around strangers
+SIP | Drink slowly
 SIT | Take a seat
-TAN | Beach souvenir
-TAR | Road material
+SKI | Winter slope gear
+SKY | Cloud location
+SLY | Clever and sneaky
+SOB | Cry heavily
+SOD | Lawn turf
+SON | Male offspring
+SOY | Sushi dipping sauce
+SPA | Relaxation resort
+SPY | Secret agent
+SUB | Deli hero sandwich
+SUM | Addition result
+SUN | Daytime star
+TAB | Browser window section
+TAG | Playground chase game
+TAN | Beachgoer's goal
+TAP | Faucet
+TAR | Road paving material
+TAX | Sales receipt addition
+TEA | Steeped beverage
+TEN | Perfect gymnastics score
+TIE | Formal neckwear
+TIN | Canned food metal
+TIP | Waiter's gratuity
+TOE | Foot digit
+TON | Two thousand pounds
+TOP | Spinning toy
+TOW | Haul a broken-down car
+TOY | Playroom item
+TRY | Make an effort
+TUB | Bathing basin
+TUG | To pull
+TWO | A pair
+URN | Coffee dispenser
+USE | Put into service
+VAN | Moving day vehicle
+VAT | Large brewing tank
+VET | Animal doctor
+VOW | Wedding promise
+WAG | Happy dog's tail motion
+WAR | Armed conflict
+WAX | Candle material
+WAY | Route or direction
+WEB | Spider's creation
+WED | Get married
+WET | Freshly painted
+WIG | Costume hairpiece
+WIN | Come in first
+WIT | Clever humor
+WOE | Deep sorrow
+WOK | Stir-fry pan
+WON | Took first place
+WOO | Court romantically
+YAM | Thanksgiving side
+YAW | Airplane's side-to-side motion
+YES | Affirmative reply
+YET | Up until now
+YAP | Talking on and on
+ZAP | A sudden short shock
+ZEN | Peaceful state of mind
+ZIP | Jacket fastener
+ZOO | Animal park
 
 ## 4 letters
-ALOE | Soothing succulent
-ARIA | Opera solo
-AREA | Square footage
-BEAR | Grizzly
-BOAT | Sailing vessel
-CARE | Look after
-CITE | Quote as a source
-DATE | Calendar entry
-DEAR | Letter opener
-DOOR | It swings on hinges
-EARN | Make money
-EAST | Where the sun rises
-EDIT | Revise
+ABLE | Capable of doing the job
+ACHE | Dull, persistent pain
+ACID | Sour chemical substance
+ACME | Highest point or peak
+ACRE | Unit of land measurement
+ACTS | Plays a role
+ADDS | Sums up
+AGED | Matured over time
+AIDE | Trusted assistant
+AIMS | Points at a target
+AIRS | Broadcasts on TV
+AJAR | Slightly open
+ALLY | Wartime partner
+ALMS | Charitable donations
+ALOE | Soothing succulent plant
+ALSO | In addition
+ALTO | Low female singing voice
+AMID | In the middle of
+ANEW | All over again
+ANTE | Poker starting bet
+ANTI | Opposed to
+APEX | Tip of a pyramid
+ARCH | Curved doorway structure
+AREA | Square footage measurement
+ARID | Extremely dry, like a desert
+ARMS | Weapons or limbs
+ARMY | Ground military force
+ARTS | Painting and sculpture
+ATOM | Tiny unit of matter
+AUNT | Parent's sister
+AUTO | Highway vehicle
+AVID | Enthusiastic and eager
+AWAY | Not at home
+AXIS | Earth's rotation line
+BABY | Crib occupant
+BACK | Spine location
+BAIL | Emergency boat bucket
+BAIT | Fishing hook lure
+BAKE | Cook in the oven
+BALD | Lacking hair
+BALE | Hay bundle
+BALL | Spherical toy
+BALM | Soothing lip ointment
+BAND | Musical group
+BANE | Source of great distress
+BANG | Loud sudden noise
+BANK | Financial institution
+BARE | Completely uncovered
+BARK | Tree covering
+BARN | Farm storage building
+BASE | Bottom support
+BATH | Soak in the tub
+BEAD | Necklace component
+BEAK | Bird's bill
+BEAM | Ray of light
+BEAN | Coffee or jelly variety
+BEAR | Grizzly or polar animal
+BEAT | Musical rhythm
+BEEF | Steak and burger meat
+BEEN | "Where have you ***?"
+BEER | Brewery beverage
+BEET | Deep red root vegetable
+BELL | School dismissal ringer
+BELT | Waistband strap
+BEND | Curve sharply
+BEST | Highest quality
+BETA | Software testing phase
+BIAS | Unfair preference
+BIKE | Two-wheeled vehicle
+BILE | Liver secretion
+BILL | Restaurant check
+BIND | Tie securely
+BIRD | Feathered flyer
+BITE | Take a nibble
+BLOW | Gust of wind
+BLUE | Color of a clear sky
+BOAR | Wild tusker
+BOAT | Lake vessel
+BODY | Physical form
+BOIL | Reach 212 degrees Fahrenheit
+BOLD | Daring and fearless
+BOLT | Lightning flash
+BOMB | Explosive device
+BOND | Glue or close connection
+BONE | Dog's buried treasure
+BOOK | Library item
+BOOM | Loud thunder sound
+BOOT | Heavy winter footwear
+BORE | Drill a hole
+BORN | Brought into the world
+BOTH | The two together
+BOWL | Cereal dish
+BRAG | Boast proudly
+BRAN | High-fiber cereal grain
+BRAT | Spoiled child
+BRED | Raised animals
+BREW | Steep tea or make beer
+BRIM | Hat edge
+BROW | Forehead area
+BUCK | Male deer
+BULB | Tulip starter
+BULK | Large quantity
+BULL | Male cow
+BUMP | Speed reducer in the road
+BUNK | Camp bed
+BURN | Char on the grill
+BURP | Baby's post-meal sound
+BURY | Put underground
+BUSH | Garden shrub
+BUSY | Occupied with tasks
+BUZZ | Bee's sound
+BYTE | Eight bits of data
+CAFE | Sidewalk coffee shop
+CAGE | Bird enclosure
+CAKE | Birthday dessert
+CALF | Baby cow
+CALL | Make a phone connection
+CALM | Peaceful and quiet
+CAME | Arrived
+CAMP | Pitch a tent
+CANE | Walking stick
+CAPE | Superhero's garment
+CARD | Birthday greeting
+CARE | Show concern
+CART | Grocery store pusher
+CASE | Detective's mystery
+CASH | Paper money
+CAST | Broken arm support
+CAVE | Bat's habitat
+CELL | Prison room
+CENT | Penny's value
+CHAT | Friendly conversation
+CHEF | Restaurant kitchen boss
+CHEW | Masticate food
+CHIN | Bottom of the face
+CHIP | Salsa scooper
+CHOP | Karate strike
+CITY | Urban metropolis
+CLAM | Chowder shellfish
+CLAP | Applaud
+CLAW | Lobster pincer
+CLAY | Potter's material
+CLIP | Paper fastener
+CLOG | Wooden shoe
+CLUB | Golfing stick
+CLUE | Detective's hint
+COAL | Santa's naughty gift
+COAT | Winter outerwear
+CODE | Secret message system
+COIL | Spring shape
+COIN | Quarter or dime
+COLD | Chilly weather
+COMB | Hair untangler
+COME | Approach
+CONE | Ice cream holder
+COOK | Prepare a meal
+COOL | Slightly chilly
+COPE | Handle stress
+COPY | Duplicate
+CORD | Electrical wire
+CORE | Apple center
+CORK | Wine bottle stopper
+CORN | Cob vegetable
+COST | Price tag amount
+COZY | Warm and comfortable
+CRAB | Sideways-walking crustacean
+CREW | Ship's staff
+CRIB | Baby's bed
+CROP | Harvested plant
+CROW | Black scavenger bird
+CUBE | Six-sided block
+CUFF | Shirt sleeve end
+CULT | Devoted fringe group
+CURB | Sidewalk edge
+CURE | Medical remedy
+CURL | Ringlet of hair
+CUTE | Adorable
+DAME | British titled woman
+DAMP | Slightly wet
+DARE | Challenge bravely
+DARK | Devoid of light
+DART | Pub board projectile
+DASH | Quick sprint
+DATA | Spreadsheet numbers
+DATE | Calendar square
+DAWN | Sunrise time
+DAYS | Week components
+DEAD | No longer living
+DEAF | Unable to hear
+DEAL | Business agreement
+DEAR | Beloved
+DEBT | Money owed
+DECK | Patio platform
+DEED | Property ownership paper
+DEEP | Far below the surface
+DEER | Antlered woodland animal
+DELI | Sandwich shop
+DENT | Fender bender mark
+DENY | Refuse to admit
+DESK | Office workstation
+DIAL | Clock face
+DICE | Board game cubes
+DIET | Weight-loss plan
+DIME | Ten-cent coin
+DINE | Eat dinner
+DIRE | Desperate and urgent
+DIRT | Garden soil
+DISC | Frisbee shape
+DISH | Plate or bowl
+DIVE | Plunge into water
+DOCK | Boat parking spot
+DOES | Female deer
+DOLL | Toy figure
+DOME | Rounded stadium roof
+DONE | Completely finished
+DOOR | Room entrance
+DOSE | Medicine measurement
+DOVE | Peace symbol bird
+DOWN | Opposite of up
+DOZE | Take a light nap
+DRAB | Dull and cheerless
+DRAG | Pull heavily
+DRAW | Sketch with a pencil
+DRIP | Leaky faucet sound
+DROP | Let fall
+DRUM | Percussion instrument
+DUCK | Pond waddler
+DUEL | Sword fight
+DUET | Song for two
+DULL | Needing sharpening
+DUMB | Speechless
+DUMP | Garbage disposal site
+DUNE | Sand hill
+DUSK | Twilight time
+DUST | Bookshelf buildup
+DUTY | Moral obligation
+EACH | Every individual one
+EARL | British nobleman
+EARN | Make a salary
+EASE | Lack of difficulty
+EAST | Sunrise direction
+EASY | Simple to do
+EATS | Consumes food
+ECHO | Canyon sound bounce
+EDGE | Cliff border
+EDIT | Revise text
 ELSE | Otherwise
-IDEA | Brainstorm result
-IRON | Pressing tool
+EMIT | Give off light or gas
+ENVY | Jealous desire
+EPIC | Grand adventure story
+EVEN | Divisible by two
+EVER | At any time
+EVIL | Wicked
+EXAM | School test
+EXIT | Way out
+EYED | Looked closely at
+FACE | Clock front
+FACT | Proven truth
+FADE | Lose color
+FAIL | Flunk a test
+FAIR | Carnival event
+FAKE | Counterfeit
+FALL | Autumn season
+FAME | Celebrity status
+FARE | Taxi charge
+FARM | Barn location
+FAST | Speedy
+FATE | Destiny
+FEAR | Fright
+FEAT | Impressive accomplishment
+FEED | Give food to
+FEEL | Sense by touch
+FEET | Twelve-inch units
+FELL | Tumbled down
+FELT | Pool table fabric
+FERN | Fronded houseplant
+FEST | Music celebration
+FEUD | Long-running family quarrel
+FILE | Nail smoother
+FILL | Top off a glass
+FILM | Movie
+FIND | Discover
+FINE | Parking ticket penalty
+FIRE | Campfire blaze
+FIRM | Solid and unyielding
+FISH | Aquarium swimmer
+FIST | Clenched hand
+FIVE | Hand's finger count
+FLAG | Country's banner
+FLAP | Bird wing motion
+FLAT | Lacking air, like a tire
+FLAW | Imperfection
+FLEA | Dog's tiny pest
+FLED | Ran away
+FLEW | Soared through the sky
+FLIP | Turn a pancake
+FLOW | River movement
+FOAM | Shaving cream lather
+FOIL | Kitchen wrapping metal
+FOLD | Crease paper
+FOLK | Traditional music genre
+FOND | Affectionate
+FOOD | Groceries
+FOOL | Court jester
+FOOT | Shoe filler
+FORD | River crossing
+FORK | Salad utensil
+FORM | Fill-in-the-blank paper
+FORT | Pillow structure
+FOUL | Baseball outside the lines
+FOUR | Quartet number
+FOWL | Domesticated bird
+FREE | At no cost
+FROG | Lily pad hopper
+FROM | Starting point indicator
+FUEL | Gasoline or diesel
+FULL | Stuffed after dinner
+FUME | Angry vapor
+FUND | Savings pool
+FUSE | Electrical safety wire
+GAIN | Put on weight
+GALE | Strong windstorm
+GAME | Chess or Monopoly
+GANG | Group of friends or rivals
+GATE | Fence entrance
+GAZE | Stare steadily
+GEAR | Bicycle mechanism
+GENE | Heredity unit
+GERM | Microscopic bug
+GIFT | Wrapped present
+GIRL | Young female
+GIVE | Donate
+GLAD | Happy and pleased
+GLOW | Soft warm light
+GLUE | Sticky craft adhesive
+GOAL | Soccer net target
+GOAT | Bearded farm animal
+GOLD | Olympic first-place medal
+GOLF | Sport with clubs and tees
+GONE | No longer present
+GOOD | Well-behaved
+GOWN | Formal evening dress
+GRAB | Snatch quickly
+GRAY | Overcast sky color
+GREW | Increased in size
+GRID | Crossword layout
+GRIN | Broad smile
+GRIP | Firm hold
+GRIT | Sandpaper texture
+GROW | Sprout and mature
+GULF | Large ocean bay
+GUST | Sudden rush of wind
+HAIR | Barber's trim target
+HALF | Fifty percent
+HALL | School corridor
+HAND | Poker player's cards
+HANG | Put a picture on the wall
+HARD | Difficult
+HARE | Fast rabbit relative
+HARM | Physical injury
+HARP | Angelic stringed instrument
+HATE | Strongly dislike
+HAUL | Tow heavy cargo
+HAVE | Possess
+HAWK | Sharp-eyed bird of prey
+HEAD | Crown wearer
+HEAL | Recover from injury
+HEAP | Messy pile
+HEAR | Listen to
+HEAT | Summer warmth
+HEEL | Back of the foot
+HEIR | Fortune inheritor
+HELD | Grasped
+HELP | Assistance
+HERB | Basil or oregano
+HERD | Group of cattle
+HERE | In this spot
+HERO | Comic book savior
+HIDE | Conceal
+HIGH | Tall or elevated
+HIKE | Trail walk
+HILL | Sledding slope
+HINT | Crossword clue
+HIRE | Give a job to
+HISS | Snake's warning sound
+HIVE | Bee colony home
+HOLD | Grasp tightly
+HOLE | Donut center
+HOME | Residence
+HOOD | Sweatshirt head covering
+HOOK | Pirate's hand replacement
+HOOP | Basketball ring
+HOPE | Optimistic wish
+HORN | Car's warning beeper
+HOSE | Garden watering tube
+HOST | Party thrower
+HOUR | Sixty minutes
+HUGE | Enormous
+HULL | Ship's main body
+HUNG | Suspended from a hook
+HUNT | Search for
+HURT | Injured
+HYMN | Church song
+ICON | Computer screen symbol
+IDEA | Lightbulb moment
+IDLE | Not working or active
+IDOL | Admired celebrity
+INCH | Ruler unit
+INFO | Facts and details
+INTO | Inside of
+IRON | Wrinkle-removing appliance
+ITEM | Grocery list entry
+JADE | Green gemstone
+JAIL | Lockup
+JAZZ | Improvisational music genre
+JEAN | Denim pant leg
+JEEP | Off-road vehicle
+JEST | Playful joke
+JOIN | Become a member
+JOKE | Punchline setup
+JOLT | Sudden shock
+JUMP | Leap into the air
+JUNE | Summer solstice month
+JUNK | Clutter
+JURY | Courtroom decision group
+JUST | Fair and impartial
+KEEN | Eager and sharp
+KEEP | Retain
+KELP | Giant seaweed
+KEPT | Held onto
+KICK | Soccer strike
+KILL | End a process
+KIND | Gentle and caring
+KING | Chess piece with a cross
+KISS | Romantic peck
+KITE | Windy day flyer
+KNEE | Leg joint
+KNEW | Had prior knowledge
+KNIT | Make a sweater with needles
+KNOT | Shoelace tie
+KNOW | Be aware of
+LACE | Shoe tie
+LACK | Shortage
+LADY | Polite woman
+LAID | Put down
+LAKE | Freshwater body
+LAMB | Young sheep
+LAMP | Bedside light
+LAND | Touch down from a flight
+LANE | Bowling alley strip
 LAST | Final
-LATE | Not on time
+LATE | Behind schedule
+LAWN | Front yard grass
+LEAD | Take charge
+LEAF | Autumn raker's target
+LEAK | Plumbing drip
+LEAN | Tilt to one side
+LEAP | Bound forward
+LEFT | Opposite of right
+LEND | Loan out
+LENS | Camera glass
+LESS | A smaller amount
+LIAR | Dishonest person
+LICK | Ice cream cone action
+LIFE | Biography subject
+LIFT | Hoist up
+LIKE | Enjoy
+LILY | Pond flower
+LIMB | Tree branch
+LIME | Green citrus fruit
 LINE | Queue
-LION | Pride member
-LOAN | Bank lending
-NOTE | Short message
-OATS | Granola base
-ONCE | One time
-OPEN | Not closed
-OVEN | Baker's appliance
-PEAR | Fruit with a stem
+LINK | Chain segment
+LION | King of the jungle
+LIST | Shopping reminder
+LIVE | Broadcast in real time
+LOAD | Laundry batch
+LOAF | Bread unit
+LOAN | Bank advance
+LOCK | Key's partner
+LOFT | Attic apartment
+LOGO | Brand symbol
+LONE | Solitary
+LONG | Extended in length
+LOOK | Gaze
+LOOP | Circle of string
+LORD | Feudal nobleman
+LOSE | Misplace
+LOSS | Defeat
+LOST | Needing a map
+LOUD | High volume
+LOVE | Deep affection
+LUCK | Good fortune
+LUMP | Oatmeal flaw
+LUNG | Breathing organ
+LURE | Fishing bait
+MACE | Medieval spiked club
+MADE | Constructed
+MAIL | Postal delivery
+MAIN | Primary
+MAKE | Create
+MALE | Rooster or bull
+MALL | Shopping center
+MANE | Lion's neck hair
+MANY | Numerous
+MARE | Female horse
+MARK | Scuff or stain
+MASK | Halloween face covering
+MASS | Church service
+MATE | Chess victory move
+MATH | Algebra and geometry
+MAZE | Hedge puzzle
+MEAL | Breakfast, lunch, or dinner
+MEAN | Unkind
+MEAT | Butcher shop purchase
+MEET | Gather together
+MELT | Turn from ice to water
+MEMO | Office note
+MEND | Stitch up a tear
+MENU | Restaurant food list
+MESH | Screen door material
+MESS | Cluttered room
+MICE | Pied Piper followers
+MILD | Not spicy
+MILE | Running track distance
+MILK | Cereal liquid
+MILL | Flour grinder
+MIND | Brainpower
+MINE | Underground dig site
+MINT | Breath freshener flavor
+MISS | Fail to hit
+MIST | Light morning fog
+MOAT | Castle water barrier
+MOCK | Make fun of
+MODE | Settings option
+MOLD | Cheese spoiler
+MOLE | Underground lawn digger
+MOOD | Emotional state
+MOON | Night sky orb
+MORE | Additional
+MOSS | Shady rock growth
+MOST | The majority
+MOTH | Porch light flutterer
+MOVE | Relocate
+MUCH | A large amount
+MULE | Stubborn pack animal
+MUST | Have to
+MUTE | TV remote silence button
+MYTH | Ancient legend
+NAIL | Hammer target
+NAME | Identity label
+NAVY | Dark blue color
+NEAR | Close by
+NEAT | Tidy and organized
+NECK | Scarf location
+NEED | Require
+NEST | Bird's twig home
+NEWS | Evening broadcast
+NEXT | Following immediately
+NICE | Pleasant
+NINE | Baseball team count
+NODE | Network connection point
+NONE | Zero
+NOON | 12:00 PM
+NORM | Usual standard
+NOSE | Smelling organ
+NOTE | Short written message
+NOUN | Person, place, or thing
+NUMB | Lacking sensation
+OATH | Courtroom promise
+OBEY | Follow orders
+ODDS | Betting ratio
+ODOR | Distinct smell
+OILY | Greasy
+OKAY | Acceptable
+OMEN | Sign of the future
+OMIT | Leave out
+ONCE | A single time
+ONLY | Sole
+ONTO | Upon
+OPEN | Unlocked
+ORAL | Spoken aloud
+OVEN | Baking appliance
+OVER | Finished
+OWED | Had a debt
+OWNS | Possesses
+PACE | Walking speed
+PACK | Suitcase task
+PAGE | Book leaf
+PAID | Settled the tab
+PAIL | Beach bucket
+PAIN | Physical ache
+PAIR | Two of a kind
+PALE | Light in complexion
+PALM | Hand center
+PANE | Window glass section
+PANT | Breathe heavily like a dog
+PARK | Playground location
+PART | Movie role
+PASS | Football throw
+PAST | History
+PATH | Hiking trail
+PEAK | Mountain summit
+PEAR | Bell-shaped fruit
+PEAS | Pod vegetables
+PEEL | Banana skin
+PEER | Look closely
+PELT | Animal fur
+PEND | Await decision
+PERK | Job benefit
+PEST | Annoying bug
+PICK | Guitar strummer
+PIER | Ocean boardwalk dock
+PILE | Stack of leaves
+PILL | Medicine tablet
+PINE | Evergreen tree
+PINK | Flamingo color
+PINT | Ice cream container size
+PIPE | Plumber's tube
+PITY | Sympathy
+PLAN | Strategy
+PLAY | Theater performance
+PLEA | Urgent request
+PLOT | Storyline
+PLOW | Snow-clearing truck
+PLUG | Sink stopper
+PLUM | Purple stone fruit
+PLUS | Addition sign
+POEM | Rhyming verse
+POET | Verse writer
+POLE | Flag holder
+POLL | Voter survey
+POND | Frog habitat
+PONY | Small horse
+POOL | Backyard swimming spot
+POOR | Lacking money
+POPE | Vatican leader
+PORK | Bacon and ham source
+PORT | Harbor city
+POSE | Model for a photo
+POST | Fence stake
+POUR | Serve coffee
+PRAY | Speak to a higher power
+PREY | Hunter's target
+PROP | Stage object
+PULL | Tug toward you
+PUMP | Bicycle tire inflator
+PURE | Uncontaminated
+PUSH | Shove forward
+QUIT | Resign from a job
+QUIZ | Pop test
+RACE | Sprint to the finish
+RACK | Spice organizer
+RAFT | Inflatable river boat
+RAGE | Intense anger
+RAID | Surprise attack
+RAIL | Train track bar
 RAIN | Umbrella weather
-REAL | Genuine
-RIDE | Hop in a car
-ROSE | Valentine's flower
+RAKE | Autumn leaf tool
+RAMP | Wheelchair incline
+RANG | Chimed like a bell
+RANK | Military standing
+RARE | Hard to find
+RASH | Skin irritation
+RATE | Speed or price measure
+READ | Enjoy a novel
+REAL | Authentic
+REAM | Paper package of 500 sheets
+REAR | Back end
+REED | Clarinet mouthpiece
+REEF | Coral underwater ridge
+REEL | Fishing rod spool
+RELY | Depend on
+RENT | Monthly apartment payment
+REST | Take a break
+RICE | Sushi grain
+RICH | Wealthy
+RIDE | Amusement park attraction
+RING | Wedding band
+RIPE | Ready to eat, like a banana
+RISE | Stand up
+RISK | Danger or gamble
+ROAD | Asphalt highway
+ROAR | Lion's loud sound
+ROBE | Bath time wrap
+ROCK | Boulder
+RODE | Travelled by bike or horse
+ROLE | Actor's part
+ROLL | Dinner bread
+ROOF | House top
+ROOM | Bedroom or kitchen
+ROOT | Tree's underground anchor
+ROPE | Lasso material
+ROSE | Thorny romantic flower
+RUIN | Destroy
+RULE | Regulation
+RUSH | Hurry
+RUST | Iron oxidation
+SACK | Burlap bag
+SAFE | Bank vault
+SAGE | Thanksgiving stuffing herb
+SAID | Spoke
 SAIL | Boat's wind catcher
-SEAT | Place to sit
-SIDE | Left or right
-SNOW | Winter flakes
-SORT | Arrange
-STAR | Celebrity
-TEAR | Cry drop
-TIDE | Ocean's rise and fall
-TIRE | Wheel cover
-TONE | Voice quality
-TRIO | Group of three
-TREE | Oak, for one
-SLED | Winter ride
-LEAD | Be in front
+SAKE | Japanese rice wine
+SALE | Discount shopping event
+SALT | Pepper's table partner
+SAME | Identical
+SAND | Beach granules
+SANG | Performed vocally
+SANK | Went underwater
+SAVE | Rescue
+SCAN | Read a barcode
+SCAR | Healed wound mark
+SEAL | Envelope closer
+SEAM | Clothing stitch line
+SEAT | Chair
+SEED | Garden starter
+SEEK | Hide-and-***
+SEEM | Appear to be
+SEEN | Spotted
+SELF | One's own person
+SELL | Trade for money
+SEND | Mail out
+SENT | Dispatched
+SHED | Backyard tool storage
+SHIN | Lower front leg
+SHIP | Cruise vessel
+SHOE | Sneaker or boot
+SHOP | Retail store
+SHOT | Camera photograph
+SHOW | Television program
+SHUT | Close tightly
+SICK | Under the weather
+SIDE | Triangle segment
+SIGH | Breath of relief
+SIGN | Street indicator
+SILK | Smooth worm-spun fabric
+SING | Belt out a tune
+SINK | Kitchen basin
+SITE | Construction location
+SIZE | Small, medium, or large
+SKIN | Outer body covering
+SKIP | Hop lightly
+SLAB | Thick slice of stone or meat
+SLAM | Shut a door loudly
+SLAP | Open-handed strike
+SLED | Winter hill rider
+SLID | Glided on ice
+SLIM | Slender
+SLIP | Banana peel mishap
+SLOT | Vending machine coin opening
+SLOW | Turtle-paced
+SNAP | Break crisply
+SNOW | Winter precipitation
+SOAK | Bathe for a long time
+SOAP | Shower bar
+SOAR | Fly high
+SOCK | Foot warmer
+SODA | Fizzy soft drink
+SOFA | Living room couch
+SOFT | Pillow-like
+SOIL | Potting dirt
+SOLD | Auctioneer's final word
+SOLE | Bottom of a shoe
+SOME | A few
+SONG | Radio track
+SOON | In the near future
+SORE | Achy after a workout
+SORT | Organize by category
+SOUL | Spirit
+SOUP | Spoon-eaten lunch
+SOUR | Lemon-like taste
+SPAN | Bridge length
+SPIN | Twirl around
+SPOT | Dalmatian dot
+STAR | Night sky twinkler
+STAY | Remain
+STEM | Flower stalk
+STEP | Staircase unit
+STEW | Slow-cooked meat and veggies
+STIR | Mix with a spoon
+STOP | Red octagon command
+SUCH | Of that kind
+SUIT | Business attire
+SURE | Certain
+SWAN | Graceful white lake bird
+SWIM | Do laps in the pool
+TAIL | Dog's wagger
+TAKE | Grab
+TALE | Bedtime story
+TALK | Converse
+TALL | High in stature
+TAME | Domesticated
+TANK | Fish aquarium
+TAPE | Gift-wrapping adhesive
+TASK | Chore or assignment
+TAXI | Yellow city cab
+TEAM | Sports squad
+TEAR | Rip paper
+TEEN | High schooler
+TELL | Inform
+TEND | Care for a garden
+TENT | Camping shelter
+TERM | School semester
+TEST | Exam
+TEXT | Smartphone message
+THAN | Comparison word
+THAT | Pointing pronoun
+THEM | Those people
+THEN | At that time
+THEY | Group pronoun
+THIN | Slender
+THIS | Right here
+THUD | Heavy falling sound
+TIDE | Ocean rise and fall
+TIDY | Neat and clean
+TIED | Knotted
+TIER | Cake layer
+TILE | Bathroom floor square
+TILL | Cash register drawer
+TIME | Clock reading
+TINY | Microscopic
+TIRE | Car wheel rubber
+TOAD | Warty amphibian
+TOES | Ten foot digits
+TOLD | Informed
+TOLL | Highway bridge fee
+TOMB | Pharaoh's burial chamber
+TONE | Musical pitch
+TOOK | Grabbed
+TOOL | Hammer or wrench
+TORN | Ripped
+TOSS | Throw lightly
+TOUR | Guided sightseeing trip
+TOWN | Small municipality
+TOYS | Playroom clutter
+TRAP | Mousetrap
+TRAY | Cafeteria food carrier
+TREE | Oak or pine
+TRIM | Haircut maintenance
+TRIP | Vacation journey
+TRUE | Accurate
+TUBE | Toothpaste container
+TUNA | Sushi or sandwich fish
+TUNE | Melody
+TURN | Rotate
+TWIN | Identical sibling
+TYPE | Use a keyboard
+UGLY | Unattractive
+UNDO | Reverse a computer mistake
+UNIT | Measurement standard
+UPON | On top of
+URGE | Strong impulse
+USED | Secondhand
+USER | Computer operator
+VAIN | Excessively proud
+VALE | Valley
+VARY | Change slightly
+VASE | Flower holder
+VAST | Immense
+VEIL | Bride's face covering
+VEIN | Blood vessel
+VENT | Air conditioning opening
+VERB | Action word
+VERY | Extremely
+VEST | Sleeveless jacket
+VIEW | Scenic outlook
+VINE | Grape grower
+VOID | Empty space
+VOTE | Cast a ballot
+WADE | Walk through shallow water
+WAGE | Hourly pay
+WAIL | Loud cry
+WAIT | Hold on
+WAKE | Stop sleeping
+WALK | Stroll
+WALL | Room divider
+WAND | Magician's stick
+WANT | Desire
+WARD | Hospital wing
+WARM | Cozy temperature
+WARN | Alert to danger
+WASH | Clean with soap and water
+WASP | Stinging yellow insect
+WAVE | Ocean surfer's ride
+WEAK | Lacking strength
+WEAR | Put on clothes
+WEED | Unwanted garden plant
+WEEK | Seven days
+WEEP | Shed tears
+WELL | Wishing water source
+WENT | Departed
+WEST | Sunset direction
+WHAT | Question word
+WHEN | Time question word
+WHIP | Cream beater
+WIDE | Broad
+WIFE | Married woman
+WILD | Untamed
+WILL | Legal inheritance document
+WIND | Breeze
+WINE | Vineyard drink
+WING | Airplane stabilizer
+WINK | One-eyed blink
+WIPE | Clean a counter
+WIRE | Metal strand
+WISE | Full of wisdom
+WISH | Birthday candle thought
+WITH | Accompanied by
+WOLF | Howling pack animal
+WOOD | Lumber
+WOOL | Sheep's coat
+WORD | Crossword entry
+WORE | Had on yesterday
+WORK | Employment
+WORM | Fishing bait crawler
+WRAP | Tortilla sandwich
+YARD | Front lawn
+YARN | Knitting thread
+YEAR | Twelve months
+YELL | Shout loudly
+YOGA | Mat stretching exercise
+YOUR | Belonging to you
+ZERO | Nothing
+ZONE | Parking area
+ZOOM | Move rapidly
 
 ## 5 letters
-ALONE | By oneself
-ARENA | Sports venue
-AROSE | Got up
-ASIDE | To one side
+ABOUT | Approximately
+ABOVE | Overhead
+ABUSE | Mistreat
+ACORN | Oak tree seed
+ACTOR | Movie star
+ACUTE | Sharp, like a 45-degree angle
+ADAPT | Adjust to new conditions
+ADMIT | Confess
+ADOBE | Clay building brick
+ADOPT | Take into the family
+ADULT | Grown-up
+AFTER | Following in time
+AGAIN | One more time
+AGENT | Secret spy
+AGILE | Nimble and quick
+AGONY | Extreme pain
+AGREE | See eye to eye
+AHEAD | In front
+AISLE | Supermarket walkway
+ALARM | Morning wake-up sound
+ALBUM | Photo collection
+ALERT | Watchful and ready
+ALIEN | Extraterrestrial
+ALIGN | Line up properly
+ALIKE | Similar
+ALIVE | Breathing
+ALLEY | Bowling lane
+ALLOW | Permit
+ALONE | Solo
+ALONG | Moving forward
+ALOUD | Spoken audibly
+ALPHA | Greek letter A
+ALTAR | Wedding ceremony spot
+ALTER | Modify or hem
+AMBER | Fossilized tree resin
+AMEND | Revise a law
+AMPLE | More than enough
+ANGEL | Heavenly winged being
+ANGER | Fury
+ANGLE | Corner measurement
+ANGRY | Mad
+ANKLE | Joint above the foot
+APART | Separated
+APPLE | Teacher's desk fruit
+APPLY | Submit a job form
+APRON | Chef's protective wear
+ARENA | Sports stadium
+ARGUE | Have a verbal dispute
+ARISE | Stand up
+ARMOR | Knight's metal suit
+AROMA | Pleasant smell
+ARRAY | Impressive display
+ARROW | Bow projectile
+ARSON | Intentional fire-setting
+ASSET | Valuable possession
 ATLAS | Book of maps
-AUDIO | Sound
-BEACH | Sandy shore
-BREAD | Toast source
-CANOE | Paddled craft
-CLEAR | See-through
-DANCE | Move to music
-EARTH | Our planet
-ELITE | Top tier
-ENTER | Come in
-HEART | Valentine shape
-HOTEL | Place to check in
-IDEAL | Perfect
-LEARN | Pick up knowledge
-LEMON | Sour citrus
-LIGHT | Not heavy
-NOISE | Racket
-NORTH | Compass point
+ATTIC | Top-floor storage space
+AUDIO | Sound recording
+AUDIT | Financial inspection
+AVOID | Stay away from
+AWAIT | Look forward to
+AWAKE | No longer sleeping
+AWARD | Trophy or medal
+AWARE | Conscious of
+AWFUL | Terrible
+BACON | Crispy breakfast strips
+BADGE | Sheriff's star
+BADLY | Poorly
+BAGEL | Cream cheese carrier
+BAKER | Bread maker
+BASIC | Fundamental
+BASIL | Pesto herb
+BASIN | Washbowl
+BASIS | Foundation
+BATCH | Cookie tray load
+BEACH | Sandy shoreline
+BEARD | Chin hair
+BEAST | Wild animal
+BEGIN | Start
+BEING | Living creature
+BELLY | Stomach
+BELOW | Underneath
+BENCH | Park seat
+BERRY | Strawberry or blueberry
+BIRTH | Arrival into the world
+BLACK | Tuxedo color
+BLADE | Knife cutting edge
+BLAME | Hold responsible
+BLANK | Empty page
+BLAST | Explosion
+BLAZE | Roaring fire
+BLEED | Lose blood
+BLEND | Mix smoothly
+BLESS | Bestow good wishes
+BLIND | Unable to see
+BLINK | Shut and open eyes quickly
+BLOCK | Toy building cube
+BLOOD | Red circulatory fluid
+BLOOM | Flower blossom
+BLOWN | Carried by the wind
+BLUES | Sad music genre
+BLUNT | Dull, not sharp
+BLUSH | Turn red from embarrassment
+BOARD | Plank of wood
+BOAST | Brag
+BONUS | Extra paycheck reward
+BOOST | Lift up
+BOOTH | Diner seating
+BOUND | Leaped
+BRAIN | Thinking organ
+BRAKE | Car stopping pedal
+BRAND | Company trademark
+BRASS | Trumpet metal
+BRAVE | Courageous
+BREAD | Sandwich slices
+BREAK | Shatter
+BREED | Dog variety
+BRICK | Red building block
+BRIDE | Wedding gown wearer
+BRIEF | Short in duration
+BRING | Carry along
+BRINK | Edge of a cliff
+BROAD | Wide
+BROKE | Out of money
+BROOK | Small stream
+BROOM | Floor sweeper
+BROWN | Chocolate color
+BRUSH | Hair detangler
+BUILD | Construct
+BUILT | Constructed
+BUNCH | Cluster of grapes
+BURST | Pop open
+BUYER | Shopper
+CABIN | Log house in the woods
+CABLE | Thick wire rope
+CAMEL | Desert humpback
+CANAL | Man-made waterway
+CANDY | Halloween treats
+CANOE | Paddled boat
+CARGO | Ship's freight
+CARRY | Transport by hand
+CARVE | Slice a turkey
+CATCH | Grab a thrown ball
+CATER | Provide event food
+CAUSE | Reason
+CEASE | Come to a stop
+CEDAR | Aromatic closet wood
+CHAIN | Linked metal
+CHAIR | Dining table seat
+CHALK | Blackboard stick
+CHAMP | Title winner
+CHANT | Repeated cheer
+CHAOS | Complete disorder
+CHARM | Bracelet trinket
+CHART | Bar graph
+CHASE | Pursue
+CHEAP | Inexpensive
+CHEAT | Break the rules
+CHECK | Restaurant bill
+CHEEK | Rosy face part
+CHEER | Stadium shout
+CHESS | Board game with pawns
+CHEST | Pirate's treasure box
+CHIEF | Tribe or fire leader
+CHILD | Youngster
+CHILI | Spicy bean stew
+CHILL | Relax
+CHINA | Fine porcelain dishes
+CHOIR | Church singing group
+CHOKE | Gag on food
+CHORD | Three musical notes
+CHORE | Household task
+CHOSE | Picked out
+CHUNK | Thick piece
+CIDER | Autumn apple drink
+CIGAR | Rolled tobacco
+CINCH | Easy task
+CLAIM | State as fact
+CLASH | Conflict
+CLASS | Schoolroom group
+CLEAN | Spotless
+CLEAR | Transparent
+CLERK | Store cashier
+CLICK | Mouse button sound
+CLIFF | Steep rock face
+CLIMB | Scale a mountain
+CLING | Hold on tightly
+CLOCK | Wall timekeeper
+CLOSE | Shut
+CLOTH | Fabric
+CLOUD | Sky fluff
+CLOWN | Circus performer
+COACH | Sports team trainer
+COAST | Ocean shoreline
+COBRA | Hooded venomous snake
+COCOA | Hot winter drink
+COLON | Punctuation mark
+COLOR | Red, blue, or green
+COMET | Streaking space ice
+COMIC | Funny book
+COMMA | Pause punctuation
+CORAL | Reef builder
+COUCH | Living room sofa
+COUGH | Throat-clearing reflex
+COULD | Was able to
+COUNT | Tally up
+COURT | Tennis playing area
+COVER | Book jacket
+CRACK | Sidewalk fissure
+CRAFT | Arts and ___
+CRANE | Construction lifter
+CRASH | Car collision
+CRATE | Wooden shipping box
+CRAWL | Baby's movement
+CRAZY | Wild and insane
+CREAM | Coffee lightener
+CREEK | Babbling stream
+CREEP | Move stealthily
+CREST | Wave peak
+CRIME | Illegal act
+CRISP | Fresh and crunchy
+CROSS | X mark
+CROWD | Large gathering
+CROWN | Royal headpiece
+CRUDE | Unrefined
+CRUEL | Mean-spirited
+CRUMB | Bread fragment
+CRUSH | Flatten
+CRUST | Pizza edge
+CURVE | Road bend
+CYCLE | Bicycle
+DAILY | Every day
+DAIRY | Milk and cheese aisle
+DAISY | White-petaled flower
+DANCE | Waltz or tango
+DEALT | Distributed cards
+DEATH | End of life
+DEBUT | First public appearance
+DECAY | Rot
+DELAY | Postpone
+DELTA | River mouth formation
+DENSE | Thickly packed
+DEPTH | Deepness
+DERBY | Horse race
+DEVIL | Horned villain
+DIARY | Personal journal
+DIGIT | Finger or number
+DINER | Casual roadside restaurant
+DIRTY | Covered in mud
+DISCO | 1970s dance music
+DITCH | Roadside trench
+DIVER | Scuba swimmer
+DIZZY | Feeling lightheaded
+DODGE | Duck out of the way
+DOUBT | Uncertainty
+DOUGH | Unbaked bread
+DOZEN | Twelve
+DRAFT | Rough version
+DRAIN | Sink hole
+DRAMA | Theater play
+DRANK | Swallowed water
+DREAM | Sleeping vision
+DRESS | Formal gown
+DRIED | Dehydrated
+DRIFT | Snow pile
+DRILL | Power tool for holes
+DRINK | Beverage
+DRIVE | Operate a car
+DROWN | Sink underwater
+DRUNK | Intoxicated
+DRYER | Laundry machine
+DUSTY | Needing a wipe-down
+DWARF | Tiny fantasy miner
+DWELL | Live in
+EAGER | Enthusiastic
+EAGLE | American national bird
+EARLY | Ahead of schedule
+EARTH | Our home planet
+EASEL | Artist's canvas stand
+EIGHT | Octagon side count
+ELBOW | Arm bend
+ELDER | Older community member
+ELECT | Vote into office
+ELITE | Top-tier
+EMPTY | Containing nothing
+ENEMY | Foe
+ENJOY | Take pleasure in
+ENTER | Go inside
+ENTRY | Doorway
+EQUAL | Identical in value
+EQUIP | Supply with gear
+ERASE | Rub out pencil marks
+ERROR | Mistake
+ERUPT | Explode like a volcano
+ESSAY | School writing assignment
+EVENT | Planned occasion
+EVERY | All of them
+EXACT | Completely accurate
+EXIST | Be real
+EXTRA | Spare
+FABLE | Moral story
+FAINT | Pass out
+FAIRY | Winged mythical sprite
+FAITH | Strong belief
+FALSE | Untrue
+FANCY | Elaborate and upscale
+FATAL | Deadly
+FAULT | Blame
+FAVOR | Helpful act
+FEAST | Grand banquet
+FENCE | Yard boundary
+FERRY | Car-carrying boat
+FEVER | High body temperature
+FIBER | Dietary roughage
+FIELD | Grassy meadow
+FIFTH | After fourth
+FIFTY | Half a hundred
+FIGHT | Brawl
+FINAL | Last
+FIRST | Number one
+FLAME | Candle fire
+FLASH | Camera light burst
+FLASK | Hip liquor container
+FLEET | Group of ships
+FLESH | Skin and muscle
+FLICK | Light tap
+FLING | Throw carelessly
+FLOAT | Stay on top of water
+FLOCK | Group of sheep or birds
+FLOOD | Overflowing water
+FLOOR | Room bottom
+FLOUR | Baking powder
+FLUID | Liquid
+FLUSH | Turn red
+FLUTE | Woodwind instrument
+FOCUS | Concentrate
+FOGGY | Misty and unclear
+FORCE | Strength
+FORGE | Blacksmith's workshop
+FORTH | Forward
+FORTY | Four tens
+FORUM | Public discussion board
+FOUND | Discovered
+FRAME | Picture border
+FRANK | Honest and direct
+FRAUD | Scam
+FRESH | Newly picked
+FRIED | Cooked in oil
+FRONT | Forward-facing side
+FROST | Winter window ice
+FROWN | Sad facial expression
+FRUIT | Apple or banana
+FULLY | Completely
+FUNNY | Humorous
+GAUGE | Pressure meter
+GHOST | Haunted house spirit
+GIANT | Enormous creature
+GIVEN | Donated
+GLASS | Window pane material
+GLAZE | Donut coating
+GLIDE | Sail smoothly
+GLOBE | World map sphere
+GLOOM | Darkness and sadness
+GLORY | Great honor
+GLOVE | Winter hand warmer
+GNOME | Garden statue
+GRACE | Elegance
+GRADE | Report card letter
+GRAIN | Wheat or rice
+GRAND | Magnificent
+GRANT | Financial award
+GRAPE | Wine fruit
+GRAPH | Data chart
+GRASP | Hold firmly
+GRASS | Lawn blades
+GRAVE | Cemetery plot
+GREAT | Fantastic
+GREED | Excessive desire for wealth
+GREEN | Clover color
+GREET | Say hello
+GRIEF | Deep sorrow
+GRILL | Backyard barbecue
+GRIND | Crush into powder
+GROAN | Low moan
+GROOM | Wedding day man
+GROSS | Disgusting
+GROUP | Collection of people
+GROVE | Small orchard
+GROWL | Dog's warning sound
+GROWN | Matured
+GUARD | Security officer
+GUESS | Estimate
+GUEST | Party visitor
+GUIDE | Tour leader
+GUILT | Remorse
+HABIT | Regular routine
+HAIRY | Furry
+HAPPY | Joyful
+HARDY | Tough and resilient
+HARSH | Rough and severe
+HASTE | Hurry
+HAUNT | Ghost's pastime
+HAVEN | Safe refuge
+HEART | Blood-pumping organ
+HEAVY | Weighing a lot
+HEDGE | Trimmed bush fence
+HELLO | Friendly greeting
+HENCE | Therefore
+HERBS | Cooking seasonings
+HINGE | Door pivot
+HOBBY | Spare-time activity
+HOIST | Lift with a pulley
+HONEY | Bee sweetener
+HONOR | High respect
+HORSE | Saddle wearer
+HOTEL | Vacation lodging
+HOUND | Hunting dog
+HOUSE | Family residence
+HUMAN | Person
+HUMID | Muggy weather
+HUMOR | Comedy
+HURRY | Rush
+IDEAL | Perfection
+IMAGE | Photograph
+IMPLY | Suggest indirectly
+INDEX | Book's back listing
+INNER | Internal
+INPUT | Data entered
+IRONY | Sarcastic twist
+ISSUE | Magazine edition
+IVORY | Piano key material
+JELLY | Peanut butter's partner
+JEWEL | Precious stone
+JOINT | Knee or elbow
+JOLLY | Merry, like Santa
+JUDGE | Courtroom official
+JUICE | Morning orange drink
+KNIFE | Butter spreader
+KNOCK | Tap on a door
+LABEL | Jar sticker
+LABOR | Hard work
+LARGE | Big
+LASER | Focused light beam
+LATER | Afterward
+LAUGH | Chuckle
+LAYER | Cake tier
+LEARN | Acquire knowledge
+LEASE | Apartment rental contract
+LEAST | Minimum amount
+LEAVE | Depart
+LEGAL | Permitted by law
+LEMON | Sour yellow fruit
+LEVEL | Flat and even
+LIGHT | Lamp illumination
+LIMIT | Maximum boundary
+LINEN | Bed sheet fabric
+LIVER | Detoxifying organ
+LOCAL | Neighborhood
+LODGE | Ski resort cabin
+LOGIC | Sound reasoning
+LOOSE | Not tight
+LOVER | Romantic partner
+LOWER | Bring down
+LOYAL | Faithful
+LUCKY | Fortunate
+LUNCH | Midday meal
+LYRIC | Song words
+MAGIC | Sleight of hand
+MAJOR | Military rank
+MAKER | Creator
+MAPLE | Pancake syrup tree
+MARCH | Spring parade month
+MARRY | Wed
+MATCH | Fire starter
+MAYOR | City leader
+MEDAL | Olympic prize
+MEDIA | News outlets
+MERCY | Compassion
+MERGE | Blend into traffic
+MERIT | Deserved praise
+MERRY | Cheerful
+METAL | Iron or steel
+METER | Parking payment post
+MIDST | Center
+MIGHT | Strength
+MINOR | Underage person
+MINUS | Subtraction sign
+MODEL | Fashion runway walker
+MONEY | Cash and coins
+MONTH | January or June
+MORAL | Story's lesson
+MOTOR | Engine
+MOUNT | Climb onto a horse
+MOUSE | Computer pointer device
+MOUTH | Lips and teeth
+MOVIE | Cinema film
+MUDDY | Covered in wet dirt
+MUSIC | Melody and rhythm
+NAKED | Unclothed
+NASTY | Very unpleasant
+NAVAL | Pertaining to ships
+NERVE | Courage
+NEVER | Not at any time
+NEWER | More recent
+NIGHT | Dark hours
+NINTH | After eighth
+NOBLE | Aristocratic
+NOISE | Loud sound
+NORTH | Compass top
+NOTCH | V-shaped cut
+NOVEL | Fiction book
+NURSE | Hospital caregiver
+NYLON | Parachute fabric
 OCEAN | Atlantic or Pacific
+OFFER | Proposal
+OFTEN | Frequently
 OLIVE | Martini garnish
-ONSET | Beginning
-OTTER | Playful river swimmer
-PIANO | Keyboard instrument
-PLANT | Fern, for one
-RADIO | Car music source
-RATIO | Proportion
-RESET | Start over
-RIVER | Flowing waterway
-ROAST | Cook in an oven
-SALAD | Bowl of greens
-SCARE | Frighten
-SHORE | Where land meets sea
-SLATE | Roof tile
-SMILE | Happy expression
-SNAIL | Slow shell carrier
-STARE | Gaze
-STONE | Rock
-STORE | Shop
-TABLE | Dining furniture
-TIGER | Striped cat
-TRAIN | Locomotive
-TREAT | Special goody
-STAIR | Step on a staircase
-LATER | See you ___
-ROUTE | Path taken
-ORATE | Give a speech
+ONION | Tear-jerking veggie
+OPERA | Sung theatrical drama
+ORBIT | Planet's path
+ORDER | Restaurant request
+ORGAN | Church pipe instrument
+OTHER | Different one
+OUGHT | Should
+OUNCE | Sixteenth of a pound
+OUTER | External
+OWNER | Proprietor
+PAINT | Wall color
+PANEL | Wooden wall section
+PANIC | Sudden fear
+PAPER | Notebook sheet
+PARTY | Birthday celebration
+PASTA | Spaghetti or penne
+PASTE | School glue
+PATCH | Quilt square
+PAUSE | Temporary stop
+PEACE | Absence of war
+PEACH | Fuzzy summer fruit
+PEARL | Oyster gem
+PEDAL | Bicycle foot lever
+PENNY | One-cent coin
+PHASE | Moon stage
+PHONE | Calling device
+PHOTO | Snapshot
+PIANO | 88-key instrument
+PIECE | Slice of pie
+PILOT | Airplane captain
+PINCH | Squeeze with fingers
+PITCH | Baseball throw
+PIZZA | Pepperoni pie
+PLACE | Location
+PLAIN | Simple and unadorned
+PLANE | Jet aircraft
+PLANT | Potted greenery
+PLATE | Dinner dish
+PLAZA | Public town square
+PLEAD | Beg
+PLUCK | Pull a guitar string
+POINT | Sharp tip
+POKER | Card game with bluffs
+POLAR | Arctic
+PORCH | Front house deck
+POUND | Sixteen ounces
+POWER | Electricity
+PRESS | Push down
+PRICE | Cost
+PRIDE | Lion group
+PRIME | Top quality
+PRINT | Put ink on paper
+PRIOR | Previous
+PRIZE | Contest reward
+PROOF | Evidence
+PROUD | Feeling accomplished
+PROVE | Demonstrate truth
+PULSE | Heartbeat
+PUNCH | Fruit party drink
+PUPIL | Eye center
+PURSE | Handbag
+QUEEN | Chess's strongest piece
+QUERY | Question
+QUEST | Hero's journey
+QUICK | Fast
+QUIET | Silent
+QUILT | Patchwork blanket
+QUITE | Fairly
+QUOTE | Exact repeated words
+RADAR | Speed-gun tech
+RADIO | Car stereo
 RAISE | Lift up
-SOLAR | Of the sun
+RANCH | Cattle farm
+RANGE | Mountain chain
+RAPID | Very fast
+RATIO | Proportion
+REACH | Stretch out for
+REACT | Respond
+READY | Prepared
+REALM | Kingdom
+REBEL | Defiant person
+REFER | Direct attention to
+REIGN | Monarch's rule
+RELAX | Unwind
+RELAY | Track passing race
+REPLY | Answer
+RIDER | Horseback traveler
+RIDGE | Mountain crest
+RIFLE | Long-barreled gun
+RIGHT | Correct
+RIGID | Stiff and inflexible
+RINSE | Wash off soap
+RIVAL | Competitor
+RIVER | Flowing waterway
+ROAST | Oven-cook meat
+ROBOT | Mechanical worker
+ROCKY | Full of stones
+ROOFY | Pertaining to a house top
+ROUGH | Not smooth
+ROUND | Circular
+ROUTE | Travel path
+ROYAL | Kingly
+RUGBY | Tackling ball sport
+RULER | Twelve-inch measuring stick
+RURAL | Countryside
+SALAD | Lettuce bowl
+SALON | Hair-cutting shop
+SALTY | Tasting of the sea
+SANDY | Beach-covered
+SAUCE | Pasta topper
+SCALE | Weight measurer
+SCARE | Frighten
+SCARF | Winter neck wrap
+SCENE | Movie segment
+SCENT | Aroma
+SCOPE | Telescope lens
+SCORE | Game tally
+SCOUT | Campfire kid
+SCRAP | Leftover piece
+SCREW | Threaded fastener
+SEIZE | Grab suddenly
+SENSE | Sight or hearing
+SERVE | Dish out food
+SEVEN | Lucky number
+SHADE | Tree shadow
+SHAKE | Tremble
+SHALL | Will
+SHAME | Guilt
+SHAPE | Circle or square
+SHARE | Divide among friends
+SHARK | Ocean predator
+SHARP | Pointed
+SHAVE | Use a razor
+SHEEP | Woolly farm animal
+SHEET | Bed covering
+SHELF | Bookcase board
+SHELL | Clam armor
+SHIFT | Gear change
+SHINE | Glow brightly
+SHIRT | Button-down top
+SHOCK | Surprise
+SHOOT | Fire a camera
+SHORE | Beachfront
+SHORT | Not tall
+SHOUT | Yell
+SHOVE | Push roughly
+SHOWN | Displayed
+SIGHT | Vision
+SILLY | Goofy
+SINCE | From that time
+SIXTH | After fifth
+SIXTY | One minute's seconds
+SKILL | Talent
+SKIRT | Knee-length garment
+SKULL | Head bone
+SLATE | Chalkboard rock
+SLAVE | Bonded worker
+SLEEP | Slumber
+SLICE | Pizza wedge
+SLIDE | Playground chute
+SLOPE | Ski hill
+SMALL | Little
+SMART | Intelligent
+SMELL | Odor
+SMILE | Happy grin
+SMOKE | Campfire plume
+SNAKE | Slithering reptile
+SOLAR | Sun-powered
+SOLID | Firm and hard
+SOLVE | Crack a puzzle
+SORRY | Apologetic
+SOUND | Noise
+SOUTH | Compass bottom
+SPACE | Outer cosmos
+SPARE | Extra tire
+SPARK | Fire starter
+SPEAK | Talk
+SPEED | Velocity
+SPELL | Magic incantation
+SPEND | Pay money
+SPICE | Cinnamon or cumin
+SPICY | Hot like jalapeños
+SPILL | Knock over a drink
+SPINE | Backbone
+SPLIT | Divide in two
+SPOIL | Go bad, like milk
+SPOON | Soup utensil
+SPORT | Soccer or tennis
+SPRAY | Aerosol mist
+SQUAD | Police team
+STACK | Neat pile
+STAFF | Company employees
+STAGE | Theater platform
+STAIN | Shirt spot
+STAIR | Step
+STAKE | Tent peg
+STAMP | Envelope postage
+STAND | Rise to one's feet
+STARE | Gaze fixedly
+START | Begin
+STATE | New Jersey or Texas
+STEAK | Ribeye or sirloin
+STEAL | Rob
+STEAM | Boiling water vapor
+STEEL | Iron alloy
+STEEP | Sharply angled hill
+STEER | Guide a car
+STICK | Twig
+STIFF | Rigid
+STILL | Motionless
+STOCK | Broth
+STONE | Rock
+STOOD | Was upright
+STORE | Retail shop
+STORM | Thunder and lightning
+STORY | Tale
+STOVE | Kitchen range
+STRAP | Backpack belt
+STRAW | Drink sipper
+STRIP | Narrow piece
+STUCK | Jammed
+STUDY | Hit the books
+STUFF | Things
+STYLE | Fashion sense
+SUGAR | Sweet crystals
+SUITE | Luxury hotel room
+SUNNY | Bright and cloudless
+SUPER | Fantastic
+SWEAR | Take an oath
+SWEAT | Perspiration
+SWEEP | Use a broom
+SWEET | Sugary
+SWIFT | Speedy
+SWING | Playground seat
+SWORD | Knight's blade
+TABLE | Dining furniture
+TASTE | Flavor
+TEACH | Educate
+TEETH | Chompers
+THANK | Express gratitude
+THEFT | Stealing
+THEME | Central idea
+THERE | Over in that spot
+THICK | Dense
+THIEF | Burglar
+THING | Object
+THINK | Ponder
+THIRD | Bronze medal position
+THORN | Rose prickle
+THREE | Trio count
+THROW | Toss
+THUMB | Opposable digit
+TIGER | Striped big cat
+TIGHT | Snug
+TIRED | Sleepy
+TITLE | Book name
+TOAST | Browned bread
+TODAY | This very date
+TOKEN | Arcade coin
+TOPIC | Discussion subject
+TOTAL | Sum
+TOUCH | Feel
+TOUGH | Durable
+TOWEL | Bath dryer
+TOWER | Castle turret
+TOXIC | Poisonous
+TRACE | Outline
+TRACK | Train rails
+TRADE | Swap
+TRAIL | Forest path
+TRAIN | Locomotive
+TRASH | Garbage
+TREAT | Dog biscuit
+TREND | Current fad
+TRIAL | Courtroom hearing
+TRIBE | Indigenous group
+TRICK | Magic illusion
+TRUCK | Pickup vehicle
+TRULY | Sincerely
+TRUNK | Elephant's nose
+TRUST | Rely on
+TRUTH | Fact
+TWICE | Two times
+TWIST | Turn sharply
+UNCLE | Aunt's husband
+UNDER | Beneath
+UNION | Labor organization
+UNITE | Join together
+UNTIL | Up to the time
+UPPER | Higher
+UPSET | Distressed
+URBAN | City-related
+USUAL | Normal
+VALID | Legally sound
+VALUE | Worth
+VALVE | Pipe flow controller
+VAULT | Bank safe
+VIDEO | Moving picture
+VIRUS | Microscopic pathogen
+VISIT | Drop by
+VITAL | Essential
+VIVID | Bright and colorful
+VOCAL | Sung
+VOICE | Speaking sound
+VOTER | Election participant
+WAGON | Kid's pull cart
+WAIST | Belt area
+WASTE | Garbage
+WATCH | Wrist timepiece
+WATER | H2O
+WEIGH | Measure heaviness
+WEIRD | Strange
+WHALE | Giant ocean mammal
+WHEAT | Bread grain
+WHEEL | Tire rim
+WHERE | Location question
+WHICH | Choice question
+WHILE | During the time
+WHITE | Snow color
+WHOLE | Entire
+WHOSE | Belonging to whom
+WIDEN | Make broader
+WOMAN | Adult female
+WORLD | Earth
+WORRY | Fret
+WORSE | More bad
+WORST | Most bad
+WORTH | Monetary value
+WOULD | Past of will
+WOUND | Injury
+WRITE | Pen a letter
+WRONG | Incorrect
+YACHT | Luxury sailboat
+YIELD | Traffic sign command
+YOUNG | Youthful
+YOUTH | Adolescence
+ZEBRA | Striped African horse
 
 ## 6 letters
-ANSWER | Reply
-ARTIST | Painter, for one
-ORANGE | Citrus fruit
-STREAM | Small river
-SEASON | Spring or fall
-STRING | Guitar part
-SILVER | Medal for second
-SENIOR | Upperclassman
-LISTEN | Pay attention
-ISLAND | Land in water
-RETAIL | Store sales
-ORIENT | Face east
-SALTED | Like some peanuts
-TALENT | Natural gift
-ENTIRE | Whole
-NATURE | The great outdoors
-RAISIN | Dried grape
+ABROAD | Overseas
+ABSENT | Missing from class
+ACCEPT | Agree to receive
+ACCESS | Entry permission
+ACCORD | Peace agreement
+ACROSS | From one side to the other
+ACTION | Movie director's cue
+ACTIVE | Energetic and moving
+ACTUAL | Real and factual
+ADJUST | Make a minor change
+ADMIRE | Look up to
+ADVICE | Helpful guidance
+ADVISE | Offer counsel
+AFFAIR | Romantic fling
+AFFORD | Have enough money for
+AFRAID | Scared
+AGENCY | Government bureau
+AGENDA | Meeting itinerary
+ALMOST | Nearly
+ALWAYS | Every single time
+AMOUNT | Total quantity
+ANCHOR | Heavy boat stopper
+ANIMAL | Zoo resident
+ANNUAL | Happening once a year
+ANSWER | Crossword grid filler
+ANYONE | Any person at all
+ANYWAY | Regardless
+APPEAL | Plead a legal case
+APPEAR | Come into view
+ARCTIC | North Pole region
+ARRIVE | Reach a destination
+ARTIST | Painter or sculptor
+ASLEEP | Snoozing
+ASPECT | Particular feature
+ASSIST | Lend a helping hand
+ASSUME | Suppose without proof
+ATTACK | Launch an assault
+ATTEND | Show up to an event
+AUGUST | Eighth calendar month
+AUTHOR | Book writer
+AUTUMN | Fall foliage season
+AVENUE | Wide city street
+BACKER | Financial sponsor
+BACKUP | Spare copy of files
+BAKERY | Bread and pastry shop
+BALLAD | Slow romantic song
+BALLET | Graceful stage dance
+BALLOT | Election voting slip
+BAMBOO | Panda's favorite snack
+BANANA | Yellow curved fruit
+BANDIT | Outlaw robber
+BANKER | Loan officer
+BANNER | Hanging celebration sign
+BARBER | Haircut specialist
+BARELY | Hardly at all
+BARREL | Wooden whiskey cask
+BASKET | Picnic carrier
+BATTLE | Military clash
+BEACON | Guiding coastal light
+BEAUTY | Aesthetic appeal
+BECOME | Grow to be
+BEFORE | Earlier than
+BEHALF | In the interest of
+BEHAVE | Act properly
+BEHIND | In the rear
+BELIEF | Strong conviction
+BELONG | Be a member of
+BESIDE | Next to
+BETTER | Superior
+BEYOND | Further than
+BISHOP | Diagonal chess piece
+BITTER | Sharp, unsweetened taste
+BLANKS | Fill-in-the-___
+BLEACH | Laundry whitener
+BLOUSE | Women's dress shirt
+BORDER | Country boundary line
+BORING | Dull and uninteresting
+BORROW | Take temporarily
+BOTTLE | Glass drink container
+BOTTOM | Lowest part
+BOUNCE | Rebound like a ball
+BRANCH | Tree limb
+BREATH | Lungful of air
+BREEZE | Gentle wind
+BRIDGE | River-spanning structure
+BRIGHT | Shining vividly
+BROKEN | In need of repair
+BRONZE | Third-place Olympic metal
+BUBBLE | Soap sphere
+BUCKET | Beach sand pail
+BUDGET | Financial spending plan
+BUFFET | All-you-can-eat spread
+BULLET | Gun projectile
+BUMPER | Car's front fender
+BUNDLE | Tied-up package
+BURDEN | Heavy responsibility
+BUREAU | Dresser with drawers
+BUTTER | Toast spread
+BUTTON | Shirt fastener
+CACTUS | Prickly desert plant
+CAMERA | Snapshot taker
+CAMPUS | College grounds
+CANCEL | Call off an event
+CANDLE | Wax light source
+CANVAS | Artist's painting surface
+CANYON | Deep river gorge
+CARBON | Diamond's element
+CAREER | Lifelong profession
+CARPET | Wall-to-wall floor covering
+CARROT | Rabbit's orange snack
+CASTLE | Medieval royal fortress
+CASUAL | Relaxed and informal
+CATTLE | Herd of cows
+CAUGHT | Captured
+CELERY | Crunchy soup stalk
+CEMENT | Sidewalk concrete binder
+CENTER | Middle point
+CEREAL | Breakfast bowl staple
+CHANCE | Luck or opportunity
+CHANGE | Pocket coins
+CHAPEL | Small wedding church
+CHARGE | Phone battery boost
+CHEESE | Cheddar or Swiss
+CHERRY | Sundae topper
+CHOOSE | Pick one
+CHORUS | Song's catchy refrain
+CHOSEN | Hand-picked
+CHURCH | Sunday worship building
+CINEMA | Movie theater
+CIRCLE | Round shape
+CIRCUS | Big top show
+CLIENT | Lawyer's customer
+CLOSET | Bedroom clothes storage
+COFFEE | Morning caffeine boost
+COLLAR | Dog's neck strap
+COLUMN | Vertical newspaper section
+COMEDY | Stand-up show genre
+COMMON | Ordinary and widespread
+COOKIE | Chocolate chip treat
+COPPER | Penny metal
+CORNER | Street intersection
+COTTON | T-shirt fabric
+COUNTY | State subdivision
+COUPLE | Romantic pair
+COUPON | Discount grocery voucher
+COURSE | Golf playing field
+COUSIN | Aunt or uncle's kid
+COWBOY | Rodeo rider
+CRADLE | Rocking baby bed
+CREATE | Bring into existence
+CREDIT | Store refund or score
+CRISIS | Emergency situation
+CRITIC | Movie reviewer
+CRUISE | Ocean vacation voyage
+CUSTOM | Traditional practice
+DAMAGE | Physical harm
+DANCER | Ballet performer
+DANGER | Peril
+DEADLY | Lethal
+DEALER | Casino card distributor
+DEBATE | Formal argument
+DECADE | Ten-year span
+DECIDE | Make up one's mind
+DEFEAT | Beat an opponent
+DEFEND | Protect from harm
+DEGREE | College diploma
+DELETE | Erase from a computer
+DEMAND | Insist upon
+DENTAL | Relating to teeth
+DEPART | Leave on a trip
+DEPEND | Rely upon
+DESERT | Arid sand expanse
+DESIGN | Blueprint or pattern
+DESIRE | Strong wish
+DETAIL | Small specific fact
+DETECT | Spot or discover
+DEVICE | Smartphone or gadget
+DIALOG | Spoken conversation
+DINNER | Evening meal
+DIRECT | Straightforward
+DOLLAR | One hundred cents
+DONATE | Give to charity
+DONKEY | Stubborn farm animal
+DOUBLE | Twice as much
+DRAGON | Fire-breathing mythical beast
+DRAWER | Dresser compartment
+DRIVER | Person behind the wheel
+DURING | Throughout the time of
+EAGLES | Philadelphia NFL team
+EASILY | Without difficulty
+EDITOR | Newspaper reviser
+EFFECT | Result or consequence
+EFFORT | Hard work
+EIGHTH | After seventh
+EITHER | One or the other
+ELEVEN | Soccer team player count
+EMERGE | Come out into view
+EMPIRE | Ruler's vast territory
+EMPLOY | Hire for a job
+ENABLE | Make possible
+ENDING | Movie conclusion
+ENERGY | Stamina and power
+ENGINE | Car's motor
+ENOUGH | Sufficient
+ENTIRE | Whole and complete
+ESCAPE | Break free
+ESTATE | Large country property
+ETHICS | Moral principles
+EXCEPT | Excluding
+EXCUSE | Reason for being late
+EXPAND | Grow larger
+EXPECT | Anticipate
+EXPERT | Master in a field
+EXPORT | Ship goods abroad
+EXTEND | Stretch out
+FABRIC | Cloth material
+FACTOR | Contributing element
+FAILED | Didn't pass
+FAIRLY | Reasonably well
+FALLEN | Dropped down
+FAMILY | Parents and children
+FAMOUS | Well-known celebrity
+FARMER | Crop grower
+FATHER | Dad
+FAUCET | Kitchen sink tap
+FELLOW | Guy or companion
+FEMALE | Woman or girl
+FIGURE | Number or shape
+FILTER | Coffee maker paper
+FINGER | Ring wearer
+FINISH | Cross the tape
+FLAVOR | Ice cream variety
+FLIGHT | Airplane journey
+FLOWER | Rose or tulip
+FLYING | Airborne
+FOLLOW | Trail behind
+FORBID | Strictly prohibit
+FOREST | Dense woods
+FORGET | Fail to remember
+FORMAL | Tuxedo and gown attire
+FORMER | Previous
+FOSSIL | Dinosaur bone imprint
+FOUGHT | Battled
+FOURTH | July holiday rank
+FREEZE | Turn to ice
+FRIDAY | End of the workweek
+FRIDGE | Kitchen cooling appliance
+FRIEND | Close companion
+FROZEN | Solid like ice
+FUTURE | Time yet to come
+GALAXY | Milky Way system
+GALLON | Four quarts
+GARAGE | Car shelter
+GARDEN | Backyard veggie plot
+GARLIC | Vampire-repelling bulb
+GATHER | Collect together
+GENTLE | Soft and kind
+GIGGLE | Silly laugh
+GINGER | Sushi palate cleanser
+GLOBAL | Worldwide
+GOLDEN | Made of precious yellow metal
+GOVERN | Rule a nation
+GRAVEL | Driveway pebbles
+GROUND | Earth beneath our feet
+GROWTH | Development
+GUITAR | Six-stringed instrument
+HAMMER | Nail pounder
+HANDLE | Door grabber
+HAPPEN | Take place
+HARBOR | Sheltered boat port
+HARDLY | Barely
+HAZARD | Safety danger
+HEALTH | Physical well-being
+HEAVEN | Pearly gates paradise
+HEIGHT | Vertical measurement
+HELMET | Bike rider's head protection
+HIDDEN | Concealed
+HOCKEY | Ice rink sport
+HOLDER | Cup sleeve
+HOLLOW | Empty inside
+HONEST | Truthful
+HORROR | Scary movie genre
+HUNGER | Need for food
+HUNTER | Deer tracker
+IGNORE | Pay no attention to
+IMPACT | Forceful collision
+IMPORT | Bring in from abroad
+INCOME | Earned salary
+INDEED | Truly
+INJURY | Physical wound
+INSECT | Six-legged bug
+INSIDE | Indoors
+INTEND | Plan to do
+INVEST | Put money into stocks
+INVITE | Ask to a party
+ISLAND | Land surrounded by water
+JACKET | Light coat
+JIGSAW | Interlocking puzzle
+JUNGLE | Tropical rainforest
+JUNIOR | High school third-year
+KEEPER | Zoo animal caretaker
+KETTLE | Tea-boiling pot
+KIDNEY | Bean-shaped organ
+KITTEN | Baby cat
+KNIGHT | Chess piece that jumps
+LADDER | Runged climbing tool
+LAPTOP | Portable computer
+LATEST | Most recent
+LATTER | Second of two
+LAUNCH | Rocket liftoff
+LAWYER | Courtroom attorney
+LEADER | Person in charge
+LEAGUE | Sports organization
+LEAVES | Autumn raking pile
+LEGACY | Lasting reputation
+LEGEND | Mythical story
+LEMONS | Sour citrus fruits
+LENGTH | Distance from end to end
+LESSON | Teacher's instruction
+LETTER | Mailbox delivery
+LIGHTS | Lamps and bulbs
+LIKELY | Probable
+LIQUID | Water, milk, or juice
+LISTEN | Pay attention with ears
+LITTLE | Small
+LIVELY | Full of energy
+LIVING | Alive
+LOCKER | High school hallway storage
+LONELY | Lacking company
 LOTION | Skin moisturizer
-STOLEN | Taken illegally
+LOVELY | Delightful
+LUXURY | Lavish comfort
+MAGNET | Refrigerator note holder
+MAINLY | For the most part
+MAKEUP | Lipstick and mascara
+MANAGE | Oversee a team
+MANNER | Polite way of acting
+MANUAL | Car with a stick shift
+MARBLE | Glass toy sphere
+MARGIN | Page border
+MARKET | Grocery store
+MASTER | Expert
+MATTER | Physical substance
+MEADOW | Grassy field
+MEDIUM | Between small and large
+MEMBER | Club participant
+MEMORY | Brain's recall ability
+MENTAL | Of the mind
+MERELY | Only just
+METHOD | Way of doing things
+MIDDLE | Exact center
+MIGHTY | Powerful
+MINING | Digging for coal or gold
+MINUTE | Sixty seconds
+MIRROR | Bathroom reflection glass
+MOBILE | Easily moved
+MODERN | Contemporary
+MODEST | Humble
+MOMENT | Brief instant
+MONDAY | Start of the workweek
+MONKEY | Banana-eating primate
+MOTHER | Mom
+MOTION | Movement
+MOVING | Changing residences
+MURDER | Mystery novel crime
+MUSCLE | Bicep or tricep
+MUSEUM | Art gallery
+MUTUAL | Shared by both sides
+MYSELF | Me, personally
+NARROW | Not wide
+NATION | Country
+NATIVE | Local inhabitant
+NATURE | The great outdoors
+NEARBY | Close at hand
+NEARLY | Almost
+NEEDLE | Sewing tool
+NEPHEW | Sibling's son
+NICKEL | Five-cent coin
+NOBODY | Not a single soul
+NOODLE | Ramen strand
+NORMAL | Usual and expected
+NOTICE | Pay attention to
+NUMBER | Digit
+OBJECT | Physical thing
+OBTAIN | Acquire
+OFFICE | Workplace desk area
+ONLINE | Connected to the internet
+OPTION | Choice
+ORANGE | Citrus fruit
+ORIGIN | Starting point
+OUTLET | Wall electrical socket
+OUTPUT | Produced amount
+OXYGEN | Breathable gas
+PACKET | Ketchup pouch
+PALACE | Royal residence
+PARADE | Marching band procession
+PARENT | Mom or dad
+PARROT | Talking tropical bird
+PATROL | Police beat
+PENCIL | Erasable writing tool
+PEOPLE | Human beings
+PEPPER | Salt's table partner
+PERIOD | Sentence-ending dot
+PERMIT | Allow
+PERSON | Individual
+PHRASE | Group of words
+PICKLE | Brined cucumber
+PICNIC | Blanket meal in the park
+PILLOW | Bedtime head rest
+PLANET | Mars or Venus
+PLAYER | Team athlete
+PLEASE | Magic polite word
+PLENTY | More than enough
+POCKET | Jeans coin holder
+POETRY | Rhyming literature
+POISON | Toxic substance
+POLICE | Law enforcement
+POLICY | Insurance contract
+POLISH | Shoe shiner
+POLITE | Well-mannered
+PORTAL | Magical doorway
+POSTER | Bedroom wall art
+POTATO | French fry vegetable
+POWDER | Baby care dust
+PREFER | Like better
+PRETTY | Attractive
+PRINCE | King's son
+PRISON | Penitentiary
+PROFIT | Financial gain
+PROPER | Correct and polite
+PUBLIC | Open to everyone
+PURPLE | Grape color
+PUZZLE | Crossword or jigsaw
+RABBIT | Hopping carrot lover
+RACKET | Tennis swing tool
+RANDOM | Chosen by chance
+RATHER | Preferably
+READER | Book lover
+REALLY | Truly
+REASON | Logical explanation
+RECALL | Remember
+RECENT | Happening not long ago
+RECIPE | Cooking instructions
+RECORD | Vinyl album
+REDUCE | Make smaller
+REFORM | Improve a system
+REFUSE | Say no
+REGARD | Think of
+REGION | Geographic area
+REGRET | Feel sorry about
+REJECT | Turn down
+RELATE | Connect with
+RELIEF | Sigh of ___
+REMAIN | Stay behind
+REMIND | Jog someone's memory
+REMOTE | TV channel changer
+REMOVE | Take away
+REPAIR | Fix
+REPEAT | Say again
+REPORT | School paper
+RESCUE | Save from danger
+RESORT | Vacation hotel
+RESULT | Outcome
+RETAIL | Storefront sales
+RETIRE | Stop working at 65
+RETURN | Come back
+REVEAL | Uncover a secret
+REVIEW | Critic's rating
+REWARD | Found-dog prize
+RHYTHM | Musical beat
+RIBBON | Gift wrap bow
+RIDDLE | Brain-teasing question
+ROBUST | Strong and healthy
+ROCKET | Space launch vehicle
+RUBBER | Tire material
+RULING | Judge's decision
+RUNNER | Marathon athlete
+SAFETY | Protection from harm
+SALARY | Annual paycheck
+SALMON | Pink sushi fish
+SAMPLE | Free grocery taste
+SANDAL | Open-toed summer shoe
+SAUCER | Teacup's plate
+SAVING | Putting money in the bank
+SCARED | Frightened
+SCHOOL | Classroom building
+SCREEN | TV display
+SCRIPT | Movie actors' lines
+SEARCH | Look for
+SEASON | Winter, spring, summer, or fall
+SECOND | Runner-up position
+SECRET | Confidential info
+SECTOR | Economic division
+SECURE | Safe and locked
+SELECT | Choose
+SENIOR | High school fourth-year
+SERIES | TV show run
+SERVER | Restaurant waiter
+SETTLE | Reach an agreement
+SEVERE | Harsh and intense
+SHADOW | Sunny day silhouette
+SHIELD | Knight's defensive gear
+SHOWER | Bathroom stall
+SIGNAL | Traffic light
+SILENT | Completely quiet
+SILVER | Second-place Olympic metal
+SIMPLE | Easy to understand
+SINGLE | Unmarried
+SISTER | Female sibling
+SKETCH | Quick pencil drawing
+SLEEVE | Shirt arm covering
+SMOOTH | Free of bumps
+SOCCER | World Cup sport
+SOCIAL | Friendly and outgoing
+SOCKET | Lightbulb screw-in spot
+SOFTLY | Quietly
+SOURCE | Origin of a river
+SPEECH | Public talk
+SPIRIT | School pride
+SPREAD | Butter or jam
+SPRING | Season after winter
+SQUARE | Four equal sides
+STABLE | Horse barn
+STATUE | Bronze park monument
+STATUS | Current standing
+STEADY | Firm and balanced
+STEREO | Home sound system
+STICKY | Covered in syrup
+STREAM | Small river
+STREET | Neighborhood road
+STRESS | Mental tension
+STRICT | Enforcing rules tightly
+STRIKE | Bowling all-pins knockdown
+STRING | Kite line
+STRONG | Muscular and powerful
+STUDIO | Artist's workspace
+SUBMIT | Hand in homework
+SUDDEN | Unexpected
+SUMMER | Hot vacation season
+SUNSET | Evening sky show
+SUPPLY | Stock of goods
+SURELY | Without a doubt
+SURVEY | Public opinion poll
+SWITCH | Light toggle
+SYMBOL | Peace sign or heart
+SYSTEM | Organized network
+TABLET | iPad or medicine pill
+TACKLE | Football takedown
+TALENT | Natural ability
+TARGET | Bullseye aim
+TEMPLE | Place of worship
+TENNIS | Wimbledon sport
+THANKS | Expression of gratitude
+THEORY | Scientific hypothesis
+THIRTY | Half a minute's seconds
+THOUGH | Even so
+THREAT | Warning of harm
+THROAT | Sore spot during a cold
+TICKET | Movie theater admission
+TIMBER | Lumberjack's warning shout
+TISSUE | Sneeze wiper
+TOMATO | BLT red slice
+TONGUE | Taste bud organ
+TOWARD | In the direction of
+TRAVEL | Go on vacation
+TREATY | International peace pact
+TROPHY | Championship cup
+TUNNEL | Underground passage
+TURKEY | Thanksgiving centerpiece
+TWELVE | Dozen
+TWENTY | Score
+UNABLE | Lacking the skill to
+UNIQUE | One of a kind
+UNITED | Joined together
+UNLESS | Except if
+UNLIKE | Different from
+UPDATE | Software refresh
+UPLOAD | Send files to the cloud
+USEFUL | Practical and handy
+VALLEY | Low land between hills
+VANISH | Disappear into thin air
+VELVET | Soft plush fabric
+VENDOR | Street food seller
+VESSEL | Ocean ship
+VICTIM | Crime sufferer
+VIEWER | TV watcher
+VIOLET | Bluish-purple flower
+VIRTUE | Moral goodness
+VISION | Eyesight
+VOLUME | TV loudness setting
+WAITER | Restaurant server
+WALKER | Sidewalk stroller
+WALLET | Cash and card holder
+WALNUT | Brain-shaped nut
+WANDER | Roam aimlessly
+WARMTH | Cozy heat
+WEALTH | Great riches
+WEAPON | Sword or spear
+WEEKLY | Once every seven days
+WEIGHT | Bathroom scale reading
+WINDOW | Glass wall opening
+WINNER | First-place finisher
+WINTER | Snowy season
+WISDOM | Deep knowledge
+WONDER | Amazement
+WOODEN | Made of oak or pine
+WORKER | Employee
+WORTHY | Deserving
+WRITER | Author
+YELLOW | Banana color
+ZIPPER | Jacket fastener
+ZOMBIE | Walking dead monster
+
+## 7 letters
+ABILITY | Natural talent or skill
+ABSENCE | Time spent away
+ACADEMY | Specialized school
+ACCOUNT | Bank balance record
+ACHIEVE | Accomplish a goal
+ADDRESS | Street number and name
+ADVANCE | Move forward
+AGAINST | In opposition to
+AIRLINE | Delta or United
+AIRPORT | Terminal and runway hub
+ALCOHOL | Wine, beer, or spirits
+ALREADY | Prior to now
+ANCIENT | Very old, like Rome
+ANOTHER | One more
+ANXIETY | Nervous worry
+ANYBODY | Any person at all
+APOLOGY | Saying "I'm sorry"
+ARRANGE | Put in neat order
+ARRIVAL | Touchdown at the airport
+ARTICLE | Newspaper story
+ATHLETE | Sports competitor
+ATTEMPT | Make a try
+ATTRACT | Draw in like a magnet
+AVERAGE | Typical or normal
+BALANCE | Tightrope walker's skill
+BALLOON | Helium party float
+BANKING | Checking and savings business
+BARGAIN | Great shopping deal
+BATTERY | Flashlight power source
+BEDROOM | Place for a mattress and dresser
+BELIEVE | Accept as true
+BENEATH | Directly underneath
+BENEFIT | Job perk or advantage
+BETWEEN | In the middle of two
+BICYCLE | Two-wheeled pedal vehicle
+BILLION | One thousand million
+BLANKET | Cozy bed cover
+BROTHER | Male sibling
+BUILDER | Construction worker
+CABINET | Kitchen dish storage
+CAPTAIN | Ship's commanding officer
+CAPTURE | Catch and hold
+CAREFUL | Cautious
+CARTOON | Saturday morning animation
+CEILING | Room's overhead surface
+CENTRAL | In the middle
+CENTURY | One hundred years
+CERTAIN | Completely sure
+CHAMBER | Enclosed room or hall
+CHANNEL | TV station
+CHAPTER | Book division
+CHARITY | Nonprofit organization
+CHICKEN | Coop bird or nuggets
+CHIMNEY | Santa's rooftop entry
+CITIZEN | Legal resident of a country
+CLASSIC | Timeless masterpiece
+CLIMATE | Regional weather pattern
+CLOTHES | Shirts, pants, and socks
+COLLEGE | University
+COMFORT | Cozy ease
+COMMAND | Give an order
+COMMENT | Written remark
+COMPANY | Business corporation
+COMPARE | Examine similarities
+COMPETE | Enter a contest
+COMPLEX | Complicated
+CONCEPT | Abstract idea
+CONCERN | Worry or care
+CONCERT | Live music show
+CONDUCT | Behavior or orchestra leading
+CONFIRM | Verify as true
+CONNECT | Join together
+CONSIST | Be made up of
+CONTACT | Get in touch with
+CONTAIN | Hold inside
+CONTENT | Happy and satisfied
+CONTEST | Competition
+CONTROL | Steering wheel function
+COOKING | Preparing meals in the kitchen
+CORRECT | Right, not wrong
+COSTUME | Halloween outfit
+COTTAGE | Cozy country house
+COUNCIL | City governing board
+COUNTER | Kitchen prep surface
+COUNTRY | Nation
+COURAGE | Bravery
+COVERED | Coated or sheltered
+CULTURE | Arts, customs, and traditions
+CURRENT | Happening right now
+CURTAIN | Window drape
+CUSHION | Sofa pillow
+CUSTOMS | Airport border inspection
+DANCING | Moving to the beat
+DEALING | Handing out poker cards
+DECIDED | Made up one's mind
+DECLINE | Politely turn down
+DEFAULT | Factory setting
+DEFENSE | Football's tackling squad
+DELIVER | Bring packages to the door
+DENSITY | Mass per unit volume
+DEPOSIT | Bank account addition
+DESERVE | Earn through merit
+DESKTOP | Computer monitor home
+DESPITE | Regardless of
+DESTROY | Demolish completely
+DEVELOP | Grow and mature
+DIAMOND | April birthstone
+DIGITAL | Computerized
+DISEASE | Medical illness
+DISPLAY | Storefront showcase
+DISTANT | Far away
+DOLPHIN | Intelligent ocean mammal
+DRAWING | Pencil sketch
+DRIVING | Operating an automobile
+DROPPED | Let fall to the floor
+ECONOMY | Supply and demand system
+EDITION | Special book printing
+ELEMENT | Gold, oxygen, or carbon
+EMOTION | Joy, anger, or sadness
+ENDLESS | Going on forever
+EVENING | Late afternoon into night
+EXACTLY | Precisely
+EXAMINE | Inspect closely
+EXAMPLE | Sample case
+EXCITED | Thrilled and eager
+EXPENSE | Financial cost
+EXPLAIN | Make clear
+EXPLORE | Travel into the unknown
+EXPRESS | Fast train or delivery
+EXTREME | Intense and radical
+FACTORY | Manufacturing plant
+FAILURE | Lack of success
+FANTASY | Dragons and wizards genre
+FASHION | Clothing trends
+FEATURE | Special highlight
+FICTION | Made-up stories
+FIFTEEN | Half of thirty
+FIGHTER | Boxer or martial artist
+FINALLY | At long last
+FISHING | Casting a line in the lake
+FITNESS | Physical health and stamina
+FOREIGN | From another country
+FOREVER | For all eternity
+FORTUNE | Great wealth or luck
+FORWARD | Ahead
+FREEDOM | Liberty
+GALLERY | Art exhibition room
+GARBAGE | Trash can contents
+GENERAL | Military top rank
+GENUINE | Authentic and real
+GESTURE | Hand wave or nod
+GIRAFFE | Long-necked African animal
+GLASSES | Reading spectacles
+GOODBYE | Farewell
+GRAMMAR | Rules of sentence structure
+GROCERY | Supermarket food
+HABITAT | Animal's natural home
+HALFWAY | Fifty percent there
+HALLWAY | Corridor between rooms
+HANDFUL | Small amount
+HARMONY | Musical agreement
+HARVEST | Autumn crop gathering
+HEALTHY | In good physical shape
+HEARING | Sense of sound
+HEAVILY | With great weight
+HELPFUL | Ready to assist
+HERSELF | That woman alone
+HIGHWAY | Interstate road
+HIMSELF | That man alone
+HISTORY | Past events
+HOLIDAY | Thanksgiving or Christmas
+HORIZON | Where earth meets sky
+HOSTILE | Unfriendly and aggressive
+HOUSING | Apartments and homes
+HOWEVER | On the other hand
+HUNDRED | Ten tens
+HUNTING | Tracking game in the woods
+HUSBAND | Married man
+ILLNESS | Sickness
+IMAGINE | Picture in your mind
+IMPROVE | Make better
+INCLUDE | Make part of the whole
+INITIAL | First letter of a name
+INQUIRY | Official investigation
+INSECTS | Ants, bees, and beetles
+INSPIRE | Motivate creatively
+INSTALL | Set up new software
+INSTANT | Immediate
+INSTEAD | As an alternative
+JOURNEY | Long trip
+JUSTICE | Fairness under the law
+KINGDOM | Monarch's realm
+KITCHEN | Cooking room
+LANDING | Airplane touchdown
+LANTERN | Camping light
+LAUNDRY | Dirty clothes pile
+LEATHER | Jacket or wallet material
+LECTURE | College professor's talk
+LEISURE | Free time
+LIBRARY | Book borrowing building
+LICENSE | Driver's ID card
+LIMITED | Restricted in amount
+MACHINE | Mechanical device
+MANAGER | Store supervisor
+MANSION | Huge luxury house
+MARRIED | Wedded
+MASSIVE | Enormous
+MAXIMUM | Highest possible limit
+MEANING | Definition
+MEASURE | Use a ruler or scale
+MEDICAL | Pertaining to doctors
+MEETING | Office conference
+MESSAGE | Text or voicemail
+MILLION | One thousand thousand
+MINERAL | Quartz or feldspar
+MINIMUM | Lowest possible amount
+MIRACLE | Unexplainable wonder
+MISSING | Lost
+MISSION | Astronaut's assignment
+MISTAKE | Error
+MIXTURE | Blend of ingredients
+MONITOR | Computer screen
+MONSTER | Closet bogeyman
+MORNING | Breakfast hours
+MYSTERY | Whodunit genre
+NATURAL | Organic and unrefined
+NEITHER | Not one nor the other
+NERVOUS | Anxious and jittery
+NETWORK | Connected computers
+NOTHING | Zero
+NUCLEAR | Atomic energy
+OBVIOUS | Plain to see
+OCTOPUS | Eight-armed sea creature
+OFFICER | Police badge wearer
+OPENING | Grand debut
+OPINION | Personal viewpoint
+ORGANIC | Grown without pesticides
+OUTCOME | Final result
+OUTDOOR | Outside in the fresh air
+OUTLINE | Rough sketch
+OUTSIDE | Outdoors
+PACKAGE | Cardboard mail delivery
+PAINTER | Artist with a brush
+PARKING | Garage or street spot
+PARTNER | Business or dance mate
+PASSAGE | Hallway or book excerpt
+PASSION | Strong enthusiasm
+PATIENT | Doctor's client
+PATTERN | Stripes or polka dots
+PAYMENT | Bill settlement
+PENALTY | Sports foul punishment
+PENGUIN | Tuxedoed Antarctic bird
+PERCENT | Out of one hundred
+PERFECT | Flawless
+PERFORM | Act or sing on stage
+PERHAPS | Maybe
+PICTURE | Framed photograph
+PIONEER | Early frontier settler
+PLASTIC | Water bottle material
+POPULAR | Well-liked by many
+PORTION | Serving size
+POVERTY | Extreme lack of money
+PREDICT | Forecast the future
+PREPARE | Get ready
+PRESENT | Wrapped birthday gift
+PREVENT | Stop from happening
+PRIMARY | Main or first
+PRINTER | Paper and ink machine
+PRIVACY | Freedom from observation
+PRIVATE | Confidential
+PROBLEM | Math puzzle or issue
+PROCEED | Move forward
+PROCESS | Step-by-step method
+PRODUCE | Fruits and vegetables
+PRODUCT | Store merchandise
+PROFILE | Side-view outline
+PROGRAM | Computer software
+PROJECT | School or work assignment
+PROMISE | Solemn vow
+PROTECT | Shield from danger
+PROTEIN | Meat, eggs, and beans nutrient
+PROTEST | Public demonstration
+PROVIDE | Supply
+PUBLISH | Print a book or article
+PURPOSE | Reason for existing
+QUALITY | Standard of excellence
+QUARTER | Twenty-five cents
+QUICKLY | Rapidly
+QUIETLY | Without making a sound
+RAILWAY | Train track system
+RAINBOW | Colorful sky arc after rain
+REALITY | The actual world
+REALIZE | Suddenly understand
+RECEIPT | Cash register slip
+RECEIVE | Get in the mail
+RECOVER | Bounce back from illness
+REGULAR | Normal and routine
+RELATED | Connected by family
+RELEASE | Set free
+REMAINS | Leftovers
+REPLACE | Put in a new one
+REQUEST | Politely ask for
+REQUIRE | Need
+RESERVE | Book a table ahead of time
+RESPECT | High regard
+RESPOND | Reply
+RESTORE | Bring back to original condition
+RETIRED | Done working for good
+RETREAT | Quiet getaway
+REVENUE | Company income
+REVERSE | Back up a car
+ROUTINE | Daily habit
+SAILING | Boating with the wind
+SCIENCE | Biology, chemistry, or physics
+SCRATCH | Relieve an itch
+SECTION | Divided part
+SEGMENT | Piece of an orange
+SERIOUS | Not joking
+SERVICE | Customer assistance
+SESSION | Therapy or jam period
+SETTING | Story's time and place
+SEVERAL | More than a few
+SHELTER | Storm refuge
+SILENCE | Complete quiet
+SIMILAR | Almost the same
+SINCERE | Genuine and heartfelt
+SOCIETY | Human community
+SOLDIER | Army member
+SOMEONE | Somebody
+SPEAKER | Stereo sound box
+SPECIAL | Unique and memorable
+STATION | Train or police stop
+STOMACH | Digestive organ
+STORAGE | Attic or basement use
+STRANGE | Unusual and weird
+STRETCH | Warm up muscles
+STUDENT | Classroom learner
+SUBJECT | School class topic
+SUCCESS | Achievement of a goal
+SUGGEST | Propose an idea
+SUPPORT | Hold up
+SUPPOSE | Assume
+SURFACE | Top layer
+SURGERY | Hospital operation
+SURVIVE | Stay alive
+SUSPECT | Person of interest
+TEACHER | Classroom instructor
+TEENAGE | Between 13 and 19
+THEATER | Movie or play venue
+THERAPY | Counseling session
+THOUGHT | Idea in the mind
+THROUGH | In one side and out the other
+TONIGHT | This evening
+TRAFFIC | Rush hour congestion
+TRAINER | Gym coach
+TROUBLE | Difficulty
+TYPICAL | Standard
+UNIFORM | Police or sports outfit
+UNKNOWN | Unfamiliar
+UNUSUAL | Out of the ordinary
+UPGRADE | Move to first class
+VARIETY | Assortment
+VEHICLE | Car, truck, or bus
+VERSION | Updated edition
+VICTORY | Winning the game
+VILLAGE | Small rural town
+VISITOR | Guest
+WARNING | Caution sign
+WEATHER | Rain, snow, or sunshine
+WEDDING | Marriage ceremony
+WEEKEND | Saturday and Sunday
+WELCOME | Mat greeting
+WESTERN | Cowboy movie genre
+WHISPER | Speak very softly
+WITHOUT | Lacking
+WITNESS | Courtroom testifier
+WORKING | On the job
+WRITING | Putting pen to paper
+
+## 8 letters
+ABSOLUTE | Complete and total
+ACCIDENT | Unintended mishap
+ACCURATE | Spot-on and precise
+ACTIVITY | Planned pastime
+ADDITION | Plus-sign math
+ADEQUATE | Just enough
+ADVOCATE | Public supporter
+AIRPLANE | Commercial jet
+ALLIANCE | Strategic partnership
+ALPHABET | A through Z
+ALTHOUGH | Even though
+ALTITUDE | Height above sea level
+AMBITION | Strong drive to succeed
+ANALYSIS | Detailed examination
+ANNOUNCE | Make publicly known
+ANYTHING | Whatever item
+ANYWHERE | In any place
+APPETITE | Desire for food
+APPLAUSE | Audience clapping
+APPROACH | Move closer to
+APPROVAL | Official green light
+ARGUMENT | Heated disagreement
+ARRESTED | Taken into police custody
+ASSEMBLY | School gathering
+ATHLETIC | Physically fit and sporty
+AUDIENCE | Theater crowd
+BACKBONE | Spine
+BACKWARD | In reverse
+BACTERIA | Microscopic organisms
+BASEBALL | Nine-inning sport
+BATHROOM | Shower and sink room
+BECOMING | Turning into
+BEHAVIOR | Way of acting
+BIRTHDAY | Cake and candles occasion
+BOUNDARY | Property border line
+BROCHURE | Folded informational pamphlet
+BUILDING | Skyscraper or office block
+BUSINESS | Commercial enterprise
+CALENDAR | Twelve-month wall chart
+CAMPAIGN | Political election run
+CAPACITY | Maximum holding amount
+CATEGORY | Classification group
+CEREMONY | Graduation or wedding event
+CHAIRMAN | Board meeting leader
+CHAMPION | First-place titleholder
+CHEMICAL | Laboratory substance
+CHILDREN | Kids
+CHOPPING | Slicing veggies on a board
+CIRCULAR | Shaped like a ring
+CIVILIAN | Non-military citizen
+CLOTHING | Apparel and garments
+COLLAPSE | Cave in suddenly
+COLONIAL | Early American style
+COLORFUL | Bright and vibrant
+COMPUTER | Laptop or desktop machine
+CONCLUDE | Bring to an end
+CONFLICT | Clash or battle
+CONGRESS | U.S. legislative body
+CONSIDER | Think carefully about
+CONSTANT | Never-changing
+CONSUMER | Everyday shopper
+CONTRAST | Striking difference
+CONVINCE | Persuade someone
+CREATIVE | Imaginative and artistic
+CREATURE | Living animal or monster
+CRIMINAL | Lawbreaker
+CRITICAL | Extremely important
+CROSSING | Pedestrian street walk
+CULTURAL | Relating to arts and society
+CURRENCY | Dollars, euros, or yen
+CUSTOMER | Store patron
+DARKNESS | Total absence of light
+DAUGHTER | Female child
+DAYLIGHT | Sunlit hours
+DEADLINE | Assignment due date
+DECISION | Final choice
+DECREASE | Go down in amount
+DELICATE | Fragile and easily broken
+DELIVERY | Package drop-off
+DESCRIBE | Explain in detail
+DESIGNER | Fashion or graphic creator
+DIALOGUE | Movie script conversation
+DIAMETER | Width across a circle
+DINOSAUR | Prehistoric reptile
+DIRECTOR | Film set boss
+DISASTER | Major catastrophe
+DISCOUNT | Sale price reduction
+DISCOVER | Find for the first time
+DISTANCE | Miles between two points
+DISTRICT | School or city zone
+DOCUMENT | Official paper or file
+DOMESTIC | Relating to the home
+DOWNTOWN | City center business area
+DRAMATIC | Theatrical and intense
+DURATION | Length of time
+ECONOMIC | Relating to money and trade
+EDUCATED | Well-schooled
+ELECTION | Voting day event
+ELECTRIC | Powered by current
+ELEPHANT | Trunked safari giant
+ELEVATOR | Building lift
+EMPLOYER | Boss or hiring company
+ENGINEER | Bridge or software builder
+ENORMOUS | Gigantic
+ENTIRELY | Completely
+ENTRANCE | Doorway in
+ENVELOPE | Stamp and letter holder
+EQUALITY | Fairness for all
+ESTIMATE | Rough guess
+EVALUATE | Assess the value of
+EVERYDAY | Routine and ordinary
+EVERYONE | Every single person
+EVIDENCE | Courtroom proof
+EXCHANGE | Swap one for another
+EXCITING | Thrilling
+EXERCISE | Gym workout routine
+EXPLICIT | Stated clearly and directly
+EXTERNAL | On the outside
+FAMILIAR | Well-known and recognizable
+FAVORITE | Most preferred
+FESTIVAL | Outdoor music or food celebration
+FINISHED | All done
+FIREWORK | Fourth of July sky burst
+FLOATING | Staying on the water's surface
+FOOTBALL | Touchdown sport
+FORECAST | Weather prediction
+FORMERLY | Previously
+FORTRESS | Heavily guarded stronghold
+FOUNTAIN | Water-spouting park feature
+FRACTION | Half, third, or quarter
+FRAGMENT | Broken piece
+FREQUENT | Happening often
+FRIENDLY | Warm and welcoming
+FRONTIER | Unexplored wilderness border
+FUNCTION | Purpose or role
+GENERATE | Produce or create
+GENEROUS | Willing to give freely
+GOVERNOR | State leader
+GRADUATE | Earn a diploma
+GRATEFUL | Thankful
+GUARDIAN | Legal protector
+GUIDANCE | Helpful direction
+HANDSOME | Good-looking
+HAPPENED | Took place
+HARDWARE | Hammers, nails, and screws
+HEADACHE | Pain behind the eyes
+HERITAGE | Family traditions and ancestry
+HIGHLAND | Mountainous region
+HOMELAND | Native country
+HOMEWORK | After-school assignment
+HONESTLY | Truthfully
+HOSPITAL | Emergency room building
+HUMANITY | The human race
+IDENTIFY | Recognize and name
+IDENTITY | Who a person is
+IGNORANT | Lacking knowledge
+ILLUSION | Magician's trick
+IMPERIAL | Relating to an empire
+INCIDENT | Specific occurrence
+INCREASE | Go up in amount
+INDICATE | Point out
+INDUSTRY | Manufacturing sector
+INFINITE | Without end
+INFORMAL | Casual and relaxed
+INNOCENT | Not guilty
+INSTANCE | Specific example
+INSTINCT | Gut feeling
+INTEREST | Savings account bonus
+INTERIOR | Inside space
+INTERNAL | Inner
+INTERVAL | Space of time between events
+INVASION | Military takeover
+INVESTOR | Stock market buyer
+ISOLATED | Cut off from others
+JEALOUSY | Green-eyed envy
+JUDGMENT | Court decision
+KEYBOARD | Typing device
+LANGUAGE | English, Spanish, or Japanese
+LAUGHTER | Sound of amusement
+LEARNING | Acquiring new skills
+LEFTOVER | Next-day fridge food
+LIFETIME | Entire span of living
+LIGHTING | Lamps and fixtures
+LIKEWISE | In the same way
+LITERARY | Relating to books and writing
+LOCATION | Map spot
+MAGAZINE | Glossy periodical
+MAGICIAN | Rabbit-from-a-hat performer
+MAINTAIN | Keep in good condition
+MAJORITY | More than half
+MARRIAGE | Holy matrimony
+MATERIAL | Fabric or building stuff
+MEDICINE | Pharmacy prescription
+MEMORIAL | Monument of remembrance
+MERCHANT | Storekeeper
+MIDNIGHT | 12:00 AM
+MILITARY | Armed forces
+MINISTER | Church pastor
+MINORITY | Less than half
+MODERATE | Average or mild
+MOLECULE | Group of bonded atoms
+MOMENTUM | Forward driving force
+MONUMENT | Historic statue or structure
+MORTGAGE | Home loan
+MOUNTAIN | Everest or Kilimanjaro
+MOVEMENT | Physical motion
+MULTIPLE | More than one
+MUSICIAN | Instrument player
+NATIONAL | Countrywide
+NEGATIVE | Less than zero
+NEIGHBOR | Person next door
+NORTHERN | Toward the top of the map
+NOTEBOOK | Spiral-bound pad
+NOVEMBER | Thanksgiving month
+OBSTACLE | Hurdle in the way
+OCCASION | Special event
+OFFERING | Gift or contribution
+OFFICIAL | Authorized and formal
+OPERATOR | Switchboard worker
+OPPONENT | Rival in a game
+OPPOSITE | Hot to cold, or up to down
+OPTIONAL | Not required
+ORDINARY | Plain and normal
+ORGANIZE | Tidy up and arrange
+ORIGINAL | First of its kind
+OVERCOME | Conquer a challenge
+OVERHEAD | Above one's head
+OVERLOOK | Miss or fail to notice
+PAINTING | Framed canvas artwork
+PARALLEL | Lines that never intersect
+PARTICLE | Tiny speck of matter
+PASSWORD | Secret login phrase
+PATIENCE | Calm endurance
+PEACEFUL | Calm and quiet
+PERSONAL | Private
+PERSUADE | Convince
+PHYSICAL | Bodily
+PLATFORM | Train boarding area
+PLEASANT | Enjoyable and nice
+PLEASURE | Feeling of happiness
+POLITICS | Government affairs
+PORTRAIT | Painted face picture
+POSITION | Job title or location
+POSITIVE | Optimistic or plus-signed
+POSSIBLE | Achievable
+POWERFUL | Very strong
+PRACTICE | Rehearsal for perfection
+PRECIOUS | High in value
+PREGNANT | Expecting a baby
+PRESENCE | Being in attendance
+PRESERVE | Keep safe from harm
+PRESSURE | Force per unit area
+PREVIOUS | Coming before
+PRINCESS | King's daughter
+PRIORITY | Top-ranking task
+PRISONER | Jail inmate
+PROBABLY | Most likely
+PRODUCER | Movie financier
+PROGRESS | Forward movement
+PROPERTY | Real estate land
+PROPOSAL | Marriage question
+PROSPECT | Future possibility
+PROVIDER | Breadwinner
+PROVINCE | Canadian division
+PUBLICLY | Out in the open
+PURCHASE | Buy at a store
+QUANTITY | Numerical amount
+QUESTION | Query ending in a mark
+REACTION | Chemical or emotional response
+RECEIVED | Got in the mail
+RECENTLY | Not long ago
+RECOVERY | Healing process
+REGIONAL | Local to an area
+REGISTER | Cash drawer
+REGULATE | Control with rules
+RELATION | Family connection
+RELATIVE | Aunt, uncle, or cousin
+RELEVANT | Connected to the topic
+RELIABLE | Dependable
+RELIGION | Faith system
+REMEMBER | Recall from memory
+REPEATED | Done over again
+REPORTER | News journalist
+REPUBLIC | Representative government
+RESEARCH | Scientific investigation
+RESIDENT | Local inhabitant
+RESOURCE | Useful supply
+RESPONSE | Answer
+RESTRICT | Limit
+REVISION | Edited draft
+ROMANTIC | Candlelit and loving
+SANDWICH | Deli meat between bread
+SATURDAY | Weekend day before Sunday
+SCENARIO | Possible situation
+SCHEDULE | Daily timetable
+SECURITY | Guard protection
+SELECTED | Hand-picked
+SENTENCE | Complete grammatical thought
+SEPARATE | Keep apart
+SEQUENCE | Specific order
+SHOULDER | Arm-to-torso joint
+SIDEWALK | Concrete pedestrian path
+SKELETON | Collection of body bones
+SLEEPING | Catching some Z's
+SOFTWARE | Computer programs
+SOLUTION | Answer to a puzzle
+SOMEBODY | Some person
+SOMEWHAT | To a moderate degree
+SOUTHERN | Below the Mason-Dixon line
+SPECIFIC | Exact and particular
+SPECTRUM | Rainbow range of colors
+STANDARD | Normal benchmark
+STRAIGHT | Not curved or bent
+STRANGER | Unknown person
+STRATEGY | Game plan
+STRENGTH | Physical power
+STRUGGLE | Difficult effort
+STUNNING | Breath-takingly beautiful
+SUBURBAN | Outside the city limits
+SUDDENLY | All at once
+SUITABLE | Appropriate
+SUNLIGHT | Daytime rays
+SUNSHINE | Bright fair weather
+SUPERIOR | Higher in rank
+SUPPLIER | Vendor of goods
+SURPRISE | Unexpected party
+SURVIVAL | Staying alive in the wild
+SYMBOLIC | Representative of an idea
+SYMPATHY | Compassion for sorrow
+SYNDROME | Group of medical symptoms
+TEACHING | Classroom instruction
+TEENAGER | High school student
+TERMINAL | Airport gate building
+TERRIBLE | Awful
+THINKING | Using one's brain
+THOUSAND | Ten hundred
+THURSDAY | Day before Friday
+TOGETHER | Side by side
+TOMORROW | The day after today
+TRAINING | Skill preparation
+TRANSFER | Move from one place to another
+TREASURE | Pirate's buried gold
+TRIANGLE | Three-sided polygon
+TROPICAL | Warm and humid climate
+UMBRELLA | Rainy day canopy
+UNIVERSE | All of space and time
+UNLIKELY | Doubtful
+VACATION | Holiday getaway
+VALUABLE | Worth a lot of money
+VARIABLE | Algebra letter like X
+VERTICAL | Straight up and down
+VIOLENCE | Physical force
+WARRANTY | Product repair guarantee
+WHATEVER | Anything at all
+WHENEVER | At whatever time
+WHEREVER | In any place
+WILDLIFE | Untamed forest animals
+WIRELESS | Wi-Fi connection
+YOURSELF | You, personally
